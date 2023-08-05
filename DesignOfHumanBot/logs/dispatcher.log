@@ -1,0 +1,776 @@
+2023-07-21 16:12:05 DEBUG TelegramBot:23 - 2
+2023-07-21 16:12:09 DEBUG TelegramBot:23 - 2
+2023-07-21 16:15:26 DEBUG TelegramBot:24 - hello
+2023-07-21 16:22:34 DEBUG TelegramBot:28 - sdf
+2023-07-21 16:25:10 DEBUG TelegramBot:28 - sdf
+2023-07-21 17:41:50 DEBUG UpdateProducerImpl:13 - 123
+2023-07-21 17:43:04 DEBUG UpdateProducerImpl:13 - 
+2023-07-21 17:43:58 DEBUG UpdateProducerImpl:13 - 
+2023-07-21 17:44:15 DEBUG UpdateProducerImpl:13 - 
+2023-07-21 18:00:03 DEBUG UpdateProducerImpl:13 - 
+2023-07-21 19:47:16 DEBUG UpdateProducerImpl:13 - sdfds
+2023-07-21 19:49:14 DEBUG UpdateProducerImpl:13 - hello
+2023-07-21 20:15:13 DEBUG UpdateProducerImpl:13 - asd
+2023-07-21 20:16:22 DEBUG UpdateProducerImpl:13 - 
+2023-07-21 20:34:50 DEBUG UpdateProducerImpl:13 - 123
+2023-07-21 20:37:02 DEBUG UpdateProducerImpl:13 - dsf
+2023-07-21 20:53:43 DEBUG UpdateProducerImpl:13 - /start
+2023-07-21 21:11:04 DEBUG UpdateProducerImpl:13 - /start
+2023-07-21 21:11:27 DEBUG UpdateProducerImpl:13 - /start
+2023-07-21 21:13:23 DEBUG UpdateProducerImpl:13 - /start
+2023-07-21 21:13:31 DEBUG UpdateProducerImpl:13 - /start
+2023-07-21 21:13:34 DEBUG UpdateProducerImpl:13 - /start
+2023-07-21 21:26:07 DEBUG UpdateProducerImpl:13 - /start
+2023-07-21 21:26:15 DEBUG UpdateProducerImpl:13 - /start
+2023-07-21 21:27:30 DEBUG UpdateProducerImpl:13 - /start
+2023-07-21 21:31:59 DEBUG UpdateProducerImpl:13 - /start
+2023-07-21 21:31:59 ERROR MessageUtils:41 - keyboard
+2023-07-21 21:44:38 DEBUG UpdateProducerImpl:13 - /start
+2023-07-21 21:44:48 DEBUG UpdateProducerImpl:13 - /start
+2023-07-21 21:46:40 DEBUG UpdateProducerImpl:13 - /start
+2023-07-21 21:46:48 DEBUG UpdateProducerImpl:13 - /start
+2023-07-21 21:52:27 DEBUG UpdateProducerImpl:13 - /start
+2023-07-21 21:55:54 DEBUG UpdateProducerImpl:13 - /start
+2023-07-21 21:56:05 DEBUG UpdateProducerImpl:13 - /start
+2023-07-21 21:58:28 DEBUG UpdateProducerImpl:13 - /start
+2023-07-21 22:01:05 DEBUG UpdateProducerImpl:13 - /start
+2023-07-21 22:04:10 DEBUG UpdateProducerImpl:13 - /start
+2023-07-21 22:06:38 DEBUG UpdateProducerImpl:13 - /start
+2023-07-21 23:10:38 DEBUG UpdateProducerImpl:13 - /start
+2023-07-21 23:11:03 DEBUG UpdateProducerImpl:13 - /start
+2023-07-22 15:29:46 DEBUG UpdateProducerImpl:13 - sdf
+2023-07-22 15:29:52 DEBUG UpdateProducerImpl:13 - /start
+2023-07-22 15:29:55 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-22 15:32:43 DEBUG UpdateProducerImpl:13 - /start
+2023-07-22 15:32:58 DEBUG UpdateProducerImpl:13 - /start
+2023-07-22 15:33:16 DEBUG UpdateProducerImpl:13 - /start
+2023-07-22 15:34:55 DEBUG UpdateProducerImpl:13 - /start
+2023-07-22 15:40:10 DEBUG UpdateProducerImpl:13 - /start
+2023-07-22 15:40:38 DEBUG UpdateProducerImpl:13 - Так знаю
+2023-07-22 15:40:44 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-22 15:40:50 DEBUG UpdateProducerImpl:13 - ТАк
+2023-07-22 15:40:52 DEBUG UpdateProducerImpl:13 - Так
+2023-07-22 15:42:06 DEBUG UpdateProducerImpl:13 - /start
+2023-07-22 15:57:45 DEBUG UpdateProducerImpl:13 - /start
+2023-07-22 15:57:48 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-22 15:57:55 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-22 16:09:54 DEBUG UpdateProducerImpl:13 - /start
+2023-07-22 16:09:57 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-22 16:10:02 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-22 16:10:04 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-22 16:19:07 DEBUG UpdateProducerImpl:13 - /start
+2023-07-22 16:19:10 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-22 16:19:13 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-22 16:19:17 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-22 16:19:17 ERROR UpdateController:86 - null1/3
+2023-07-22 16:28:22 DEBUG UpdateProducerImpl:13 - /start
+2023-07-22 16:28:23 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-22 16:28:25 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-22 16:28:27 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-22 16:28:27 ERROR UpdateController:91 - null1/3
+2023-07-22 16:30:15 DEBUG UpdateProducerImpl:13 - /start
+2023-07-22 16:30:17 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-22 16:30:18 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-22 16:30:19 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-22 16:30:19 ERROR UpdateController:91 - null1/3
+2023-07-22 16:32:57 DEBUG UpdateProducerImpl:13 - /start
+2023-07-22 16:32:58 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-22 16:32:59 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-22 16:32:59 ERROR UpdateController:63 - Маніфестор
+2023-07-22 16:33:01 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-22 16:33:01 ERROR UpdateController:92 - 1/3
+2023-07-22 16:42:22 DEBUG UpdateProducerImpl:13 - /start
+2023-07-22 16:42:24 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-22 16:42:25 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-22 16:42:26 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-22 16:49:01 DEBUG UpdateProducerImpl:13 - /start
+2023-07-22 16:49:03 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-22 16:49:04 DEBUG UpdateProducerImpl:13 - Генератор
+2023-07-22 16:49:06 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-22 16:49:06 ERROR UpdateController:93 - 
+2023-07-22 16:49:44 DEBUG UpdateProducerImpl:13 - /start
+2023-07-22 16:49:46 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-22 16:49:48 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-22 16:49:49 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-22 16:49:49 ERROR UpdateController:94 - 
+2023-07-22 16:51:06 DEBUG UpdateProducerImpl:13 - /start
+2023-07-22 16:51:08 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-22 16:51:10 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-22 16:51:11 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-22 16:51:11 ERROR UpdateController:94 - Маніфестор
+2023-07-22 16:52:12 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-22 16:52:12 ERROR UpdateController:98 - null 1/3
+2023-07-22 16:52:19 DEBUG UpdateProducerImpl:13 - /start
+2023-07-22 16:52:22 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-22 16:52:25 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-22 16:52:30 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-22 16:52:30 ERROR UpdateController:98 - Маніфестор 1/3
+2023-07-22 16:56:51 DEBUG UpdateProducerImpl:13 - /start
+2023-07-22 16:56:53 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-22 16:56:55 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-22 16:56:57 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-22 16:56:57 ERROR UpdateController:171 - asd
+2023-07-22 17:11:21 DEBUG UpdateProducerImpl:13 - /start
+2023-07-22 17:11:25 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-22 17:12:21 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-22 17:12:21 ERROR UpdateController:61 - А що це?
+2023-07-22 17:12:35 DEBUG UpdateProducerImpl:13 - 25.12.1901
+2023-07-22 17:28:49 DEBUG UpdateProducerImpl:13 - /start
+2023-07-22 17:28:51 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-22 17:29:09 DEBUG UpdateProducerImpl:13 - 13.01.2200
+2023-07-22 17:32:01 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-22 17:32:18 DEBUG UpdateProducerImpl:13 - sdfdsg
+2023-07-22 17:37:02 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-22 17:37:07 DEBUG UpdateProducerImpl:13 - sdfdsf
+2023-07-22 17:40:34 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-22 17:40:48 DEBUG UpdateProducerImpl:13 - 10.12.2001
+2023-07-22 17:43:04 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-22 17:43:07 DEBUG UpdateProducerImpl:13 - 10.12
+2023-07-22 17:48:02 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-22 17:48:06 DEBUG UpdateProducerImpl:13 - 10.12
+2023-07-22 17:49:23 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-22 17:49:27 DEBUG UpdateProducerImpl:13 - 12.12
+2023-07-22 17:49:55 DEBUG UpdateProducerImpl:13 - 10 10
+2023-07-22 17:52:07 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-22 17:52:13 DEBUG UpdateProducerImpl:13 - 12.12
+2023-07-22 17:53:46 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-22 17:53:54 DEBUG UpdateProducerImpl:13 - 1212
+2023-07-22 17:54:29 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-22 17:54:33 DEBUG UpdateProducerImpl:13 - 1212
+2023-07-22 18:07:58 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-22 18:08:03 DEBUG UpdateProducerImpl:13 - 12.12
+2023-07-22 18:14:06 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-22 18:14:06 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-22 18:14:09 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-22 18:14:18 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-22 18:14:20 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-22 18:31:17 DEBUG UpdateProducerImpl:13 - 2/5
+2023-07-22 18:31:45 DEBUG UpdateProducerImpl:13 - /start
+2023-07-22 18:31:48 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-22 18:31:49 DEBUG UpdateProducerImpl:13 - Проектор
+2023-07-22 18:31:50 DEBUG UpdateProducerImpl:13 - 6/3
+2023-07-22 18:34:41 ERROR UpdateController:52 - 12.12.2001
+2023-07-22 18:34:41 DEBUG UpdateProducerImpl:13 - 12.12.2001
+2023-07-22 18:43:01 DEBUG UpdateProducerImpl:13 - 12.12.2001
+2023-07-22 18:49:51 DEBUG UpdateProducerImpl:13 - 18:00
+2023-07-22 18:51:57 ERROR UpdateController:59 - [12]
+2023-07-22 18:51:57 DEBUG UpdateProducerImpl:13 - 12
+2023-07-22 19:50:37 DEBUG UpdateProducerImpl:13 - 12
+2023-07-22 19:50:42 DEBUG UpdateProducerImpl:13 - 123
+2023-07-22 19:50:45 DEBUG UpdateProducerImpl:13 - 1
+2023-07-22 19:51:13 DEBUG UpdateProducerImpl:13 - 12
+2023-07-22 19:51:17 ERROR UpdateController:59 - 1
+2023-07-22 19:51:17 DEBUG UpdateProducerImpl:13 - 1
+2023-07-22 20:00:40 ERROR UpdateController:60 - 12
+2023-07-22 20:00:40 DEBUG UpdateProducerImpl:13 - 12
+2023-07-22 20:01:22 ERROR UpdateController:60 - 12
+2023-07-22 20:01:22 DEBUG UpdateProducerImpl:13 - 12
+2023-07-22 20:01:56 ERROR UpdateController:66 - dsaf
+2023-07-22 20:01:56 DEBUG UpdateProducerImpl:13 - dsaf
+2023-07-22 20:35:17 ERROR UpdateController:64 - місто
+2023-07-22 20:35:17 DEBUG UpdateProducerImpl:13 - місто
+2023-07-22 20:38:43 ERROR UpdateController:65 -  Київ
+2023-07-22 20:38:43 DEBUG UpdateProducerImpl:13 - Місто Київ
+2023-07-23 14:10:37 DEBUG UpdateProducerImpl:13 - /start
+2023-07-23 14:10:41 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-23 14:10:42 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-23 14:10:43 DEBUG UpdateProducerImpl:13 - 6/2
+2023-07-23 16:46:14 DEBUG UpdateProducerImpl:13 - /start
+2023-07-23 16:46:16 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-23 16:48:33 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-23 16:48:33 ERROR TelegramBot:52 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Text parameter can't be empty in method: SendMessage(chatId=491087912, messageThreadId=null, text=, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup(keyboard=[[KeyboardButton(text=Маніфестор, requestContact=null, requestLocation=null, requestPoll=null, webApp=null, requestUser=null, requestChat=null), KeyboardButton(text=Генератор, requestContact=null, requestLocation=null, requestPoll=null, webApp=null, requestUser=null, requestChat=null), KeyboardButton(text=Проектор, requestContact=null, requestLocation=null, requestPoll=null, webApp=null, requestUser=null, requestChat=null)], [KeyboardButton(text=Маніфестуючий генератор, requestContact=null, requestLocation=null, requestPoll=null, webApp=null, requestUser=null, requestChat=null), KeyboardButton(text=Рефлектор, requestContact=null, requestLocation=null, requestPoll=null, webApp=null, requestUser=null, requestChat=null)]], resizeKeyboard=null, oneTimeKeyboard=null, selective=null, inputFieldPlaceholder=null, isPersistent=null), entities=null, allowSendingWithoutReply=null, protectContent=null)
+2023-07-23 16:50:56 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-23 16:51:02 DEBUG UpdateProducerImpl:13 - 3/5
+2023-07-23 16:51:31 ERROR UpdateController:67 - GOOOD
+2023-07-23 16:51:31 DEBUG UpdateProducerImpl:13 - 6/3
+2023-07-23 16:52:04 DEBUG UpdateProducerImpl:13 - /start
+2023-07-23 16:52:07 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-23 16:52:09 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-23 16:52:10 DEBUG UpdateProducerImpl:13 - 1/4
+2023-07-23 16:52:10 ERROR UpdateController:196 - GOOOD
+2023-07-23 17:37:34 DEBUG UpdateProducerImpl:13 - /start
+2023-07-23 17:37:38 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-23 17:37:39 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-23 17:37:40 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-23 17:37:40 ERROR TelegramBot:63 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendAudio query: [400] Bad Request: wrong file identifier/HTTP URL specified
+2023-07-23 17:37:40 ERROR TelegramBot:63 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendAudio query: [400] Bad Request: wrong file identifier/HTTP URL specified
+2023-07-23 17:37:40 ERROR TelegramBot:63 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendAudio query: [400] Bad Request: wrong file identifier/HTTP URL specified
+2023-07-23 17:37:40 ERROR TelegramBot:63 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendAudio query: [400] Bad Request: wrong file identifier/HTTP URL specified
+2023-07-23 17:41:19 DEBUG UpdateProducerImpl:13 - /start
+2023-07-23 17:41:23 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-23 17:41:28 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-23 17:41:30 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-23 17:41:30 ERROR TelegramBot:63 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendAudio query: [400] Bad Request: wrong remote file identifier specified: can't unserialize it. Wrong last symbol
+2023-07-23 17:41:30 ERROR TelegramBot:63 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendAudio query: [400] Bad Request: wrong file identifier/HTTP URL specified
+2023-07-23 17:41:30 ERROR TelegramBot:63 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendAudio query: [400] Bad Request: wrong remote file identifier specified: can't unserialize it. Wrong last symbol
+2023-07-23 17:41:30 ERROR TelegramBot:63 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendAudio query: [400] Bad Request: wrong file identifier/HTTP URL specified
+2023-07-23 17:54:51 DEBUG UpdateProducerImpl:13 - /start
+2023-07-23 17:54:54 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-23 17:54:55 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-23 17:54:56 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-23 17:54:56 ERROR TelegramBot:63 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send audio
+2023-07-23 17:54:57 ERROR TelegramBot:63 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send audio
+2023-07-23 17:54:57 ERROR TelegramBot:63 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send audio
+2023-07-23 17:54:57 ERROR TelegramBot:63 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send audio
+2023-07-23 17:55:46 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-23 17:55:54 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-23 17:55:54 ERROR TelegramBot:63 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send audio
+2023-07-23 17:55:55 ERROR TelegramBot:63 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send audio
+2023-07-23 17:55:55 ERROR TelegramBot:63 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send audio
+2023-07-23 17:55:56 ERROR TelegramBot:63 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send audio
+2023-07-23 17:57:38 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-23 17:57:39 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-23 17:57:41 ERROR TelegramBot:63 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send audio
+2023-07-23 17:57:41 ERROR TelegramBot:63 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send audio
+2023-07-23 17:57:41 ERROR TelegramBot:63 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send audio
+2023-07-23 17:57:42 ERROR TelegramBot:63 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send audio
+2023-07-23 17:58:12 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-23 17:58:14 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-23 17:58:14 ERROR TelegramBot:63 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send audio
+2023-07-23 17:58:15 ERROR TelegramBot:63 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send audio
+2023-07-23 17:58:15 ERROR TelegramBot:63 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send audio
+2023-07-23 17:58:16 ERROR TelegramBot:63 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send audio
+2023-07-23 18:00:34 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-23 18:00:36 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-23 18:00:36 ERROR TelegramBot:64 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send voice
+2023-07-23 18:00:37 ERROR TelegramBot:64 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send voice
+2023-07-23 18:00:37 ERROR TelegramBot:64 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send voice
+2023-07-23 18:00:37 ERROR TelegramBot:64 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send voice
+2023-07-23 18:01:41 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-23 18:01:43 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-23 18:01:44 ERROR TelegramBot:64 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send voice
+2023-07-23 18:01:44 ERROR TelegramBot:64 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send voice
+2023-07-23 18:01:45 ERROR TelegramBot:64 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send voice
+2023-07-23 18:01:45 ERROR TelegramBot:64 - org.telegram.telegrambots.meta.exceptions.TelegramApiException: Unable to send voice
+2023-07-23 18:17:15 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-23 18:17:17 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-23 18:17:17 ERROR TelegramBot:64 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendVoice query: [400] Bad Request: wrong file identifier/HTTP URL specified
+2023-07-23 18:17:17 ERROR TelegramBot:64 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendVoice query: [400] Bad Request: wrong file identifier/HTTP URL specified
+2023-07-23 18:22:26 ERROR UpdateController:195 - AwACAgIAAxkBAAIBc2S9RbN2vMi4QJ8fZXNL8cotZmynAAJRJAACQTOhSt0qIZwQWntNLwQ
+2023-07-23 18:22:59 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-23 18:23:01 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-23 18:25:13 DEBUG UpdateProducerImpl:13 - 1/4
+2023-07-23 18:25:20 DEBUG UpdateProducerImpl:13 - 2/4
+2023-07-23 18:25:26 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-23 18:30:08 DEBUG UpdateProducerImpl:13 - /start
+2023-07-23 18:30:10 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-23 18:30:11 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-23 18:30:11 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-23 18:46:57 DEBUG UpdateProducerImpl:13 - /start
+2023-07-23 18:47:11 ERROR UpdateController:194 - AwACAgIAAxkBAAIBimS9S3_VJv3c9wL576QPFlevlbfdAAK-JAACLQ8pSnpQhCiEAAFiWy8E
+2023-07-23 18:47:47 ERROR UpdateController:194 - AwACAgIAAxkBAAIBi2S9S6Q9dglCFELlCosGYFPqgftnAAI1JAACa3dBSnM8BAAByhXYai8E
+2023-07-23 18:48:13 ERROR UpdateController:194 - AwACAgIAAxkBAAIBjGS9S74DECVNR-0PAzu-7oshB8TGAAJjJAACa3dBSg_nrR77i8XoLwQ
+2023-07-23 18:48:36 ERROR UpdateController:194 - AwACAgIAAxkBAAIBjWS9S9Rwz6PmImNTrJktjQqAjWKxAAKNJAACa3dBSmR4387k7MQaLwQ
+2023-07-23 18:50:57 ERROR UpdateController:194 - AwACAgIAAxkBAAIBjmS9TGI9btUIg7ecbqq2XZnzTXxeAALQJQACa3dBSkL22F7xJ_bJLwQ
+2023-07-23 18:51:47 ERROR UpdateController:194 - AwACAgIAAxkBAAIBj2S9TJNuMECoGuvJULmX9WxUpxBAAAIUJAACa3dJSr1MPjMbIzJxLwQ
+2023-07-23 18:53:08 ERROR UpdateController:194 - AwACAgIAAxkBAAIBkGS9TOTf-43WZVO3fHjapQ6zNfgqAAK5JQACa3dBSqW0AAEqTXKc6C8E
+2023-07-23 18:53:38 ERROR UpdateController:194 - AwACAgIAAxkBAAIBkWS9TQJgsD92URL4YQ9LcXaUr-1UAAIsJAACa3dJSqsrAZpjWjQxLwQ
+2023-07-23 18:54:15 ERROR UpdateController:194 - AwACAgIAAxkBAAIBkmS9TSjTcVD3g1Ii7Iir2TYnO7KvAALHJQACa3dBSkfC7zsSTUBrLwQ
+2023-07-23 18:54:34 ERROR UpdateController:194 - AwACAgIAAxkBAAIBk2S9TTufVFEruW6Px6Ze1MoEEhcGAAIgJAACa3dJSrQmmFm38DSCLwQ
+2023-07-23 18:55:38 ERROR UpdateController:194 - AwACAgIAAxkBAAIBlGS9TXsGFdlo6XS_g0Rt7F-kgBsNAAJRJAACQTOhSt0qIZwQWntNLwQ
+2023-07-23 18:56:01 ERROR UpdateController:194 - AwACAgIAAxkBAAIBlWS9TZLhrYzQiU4WWr_XI0jKJtJlAAMkAAJrd0lK2OFHrikfPu0vBA
+2023-07-23 18:56:31 ERROR UpdateController:194 - AwACAgIAAxkBAAIBlmS9Ta_CXRtNn5hbu1FZ_RqYqvzFAAIOJAACa3dJStDA8tnVq4uxLwQ
+2023-07-23 18:57:55 DEBUG UpdateProducerImpl:13 - /start
+2023-07-23 18:57:57 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-23 18:57:59 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-23 18:58:00 DEBUG UpdateProducerImpl:13 - 6/3
+2023-07-23 19:12:59 DEBUG UpdateProducerImpl:13 - /start
+2023-07-23 19:13:03 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-23 19:13:04 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-23 19:13:08 DEBUG UpdateProducerImpl:13 - 2/5
+2023-07-23 19:13:09 ERROR TelegramBot:54 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Text parameter can't be empty in method: SendMessage(chatId=491087912, messageThreadId=null, text=, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup(keyboard=[[KeyboardButton(text=Безкоштовний бонус, requestContact=null, requestLocation=null, requestPoll=null, webApp=null, requestUser=null, requestChat=null), KeyboardButton(text=Зробити розрахунок, requestContact=null, requestLocation=null, requestPoll=null, webApp=null, requestUser=null, requestChat=null), KeyboardButton(text=Повний розбір, requestContact=null, requestLocation=null, requestPoll=null, webApp=null, requestUser=null, requestChat=null), KeyboardButton(text=Дитячий Дизайн, requestContact=null, requestLocation=null, requestPoll=null, webApp=null, requestUser=null, requestChat=null)], [KeyboardButton(text=Карта сумісності, requestContact=null, requestLocation=null, requestPoll=null, webApp=null, requestUser=null, requestChat=null), KeyboardButton(text=Задати питання, requestContact=null, requestLocation=null, requestPoll=null, webApp=null, requestUser=null, requestChat=null), KeyboardButton(text=Перейти на сайт, requestContact=null, requestLocation=null, requestPoll=null, webApp=null, requestUser=null, requestChat=null), KeyboardButton(text=Перейти в інстаграм, requestContact=null, requestLocation=null, requestPoll=null, webApp=null, requestUser=null, requestChat=null)]], resizeKeyboard=null, oneTimeKeyboard=null, selective=null, inputFieldPlaceholder=null, isPersistent=null), entities=null, allowSendingWithoutReply=null, protectContent=null)
+2023-07-23 19:18:13 ERROR UpdateController:194 - AwACAgIAAxkBAAIBqWS9UsUH4SMzZZ-b2AhhccvXhqrDAAJBJAACa3dJSqMoUM5e9EEFLwQ
+2023-07-23 19:19:04 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-23 19:19:10 DEBUG UpdateProducerImpl:13 - /start
+2023-07-23 19:19:14 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-23 19:19:15 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-23 19:20:09 DEBUG UpdateProducerImpl:13 - /start
+2023-07-23 19:20:12 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-23 19:20:14 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-23 19:20:15 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-23 19:38:29 DEBUG UpdateProducerImpl:13 - /start
+2023-07-23 19:38:43 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-23 19:38:43 ERROR TelegramBot:54 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Text parameter can't be empty in method: SendMessage(chatId=491087912, messageThreadId=null, text=, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=ReplyKeyboardMarkup(keyboard=[[KeyboardButton(text=Маніфестор, requestContact=null, requestLocation=null, requestPoll=null, webApp=null, requestUser=null, requestChat=null), KeyboardButton(text=Генератор, requestContact=null, requestLocation=null, requestPoll=null, webApp=null, requestUser=null, requestChat=null), KeyboardButton(text=Проектор, requestContact=null, requestLocation=null, requestPoll=null, webApp=null, requestUser=null, requestChat=null)], [KeyboardButton(text=Маніфестуючий генератор, requestContact=null, requestLocation=null, requestPoll=null, webApp=null, requestUser=null, requestChat=null), KeyboardButton(text=Рефлектор, requestContact=null, requestLocation=null, requestPoll=null, webApp=null, requestUser=null, requestChat=null)]], resizeKeyboard=null, oneTimeKeyboard=null, selective=null, inputFieldPlaceholder=null, isPersistent=null), entities=null, allowSendingWithoutReply=null, protectContent=null)
+2023-07-23 19:40:22 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-23 19:40:22 ERROR TelegramBot:54 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [400] Bad Request: message must be non-empty
+2023-07-23 19:40:58 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-23 19:41:04 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-23 19:41:23 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-23 19:42:38 DEBUG UpdateProducerImpl:13 - Генератор
+2023-07-23 19:42:46 DEBUG UpdateProducerImpl:13 - s
+2023-07-23 19:42:49 DEBUG UpdateProducerImpl:13 - /start
+2023-07-23 19:42:52 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-23 19:42:53 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-23 19:44:08 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-23 19:45:27 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-23 19:45:29 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-23 19:45:32 DEBUG UpdateProducerImpl:13 - Безкоштовний бонус
+2023-07-23 19:45:33 DEBUG UpdateProducerImpl:13 - Зробити розрахунок
+2023-07-23 19:45:39 DEBUG UpdateProducerImpl:13 - Повний розбір
+2023-07-23 19:46:30 DEBUG UpdateProducerImpl:13 - Зробити розрахунок
+2023-07-23 19:47:17 DEBUG UpdateProducerImpl:13 - Карта сумісності
+2023-07-23 19:47:19 DEBUG UpdateProducerImpl:13 - Задати питання
+2023-07-23 19:48:34 DEBUG UpdateProducerImpl:13 - /start
+2023-07-23 19:48:37 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-23 19:48:45 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-23 19:48:46 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-23 19:48:48 DEBUG UpdateProducerImpl:13 - Зробити розрахунок
+2023-07-23 19:48:51 DEBUG UpdateProducerImpl:13 - Повний розбір
+2023-07-23 19:48:52 DEBUG UpdateProducerImpl:13 - Дитячий Дизайн
+2023-07-23 19:48:54 DEBUG UpdateProducerImpl:13 - Карта сумісності
+2023-07-23 19:53:10 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-23 19:53:14 DEBUG UpdateProducerImpl:13 - Генератор
+2023-07-23 19:53:17 DEBUG UpdateProducerImpl:13 - 6/3
+2023-07-23 19:53:27 DEBUG UpdateProducerImpl:13 - Перейти на сайт
+2023-07-23 19:53:33 DEBUG UpdateProducerImpl:13 - Зробити розрахунок
+2023-07-23 19:53:33 DEBUG UpdateProducerImpl:13 - Зробити розрахунок
+2023-07-23 19:54:00 DEBUG UpdateProducerImpl:13 - Перейти в інстаграм
+2023-07-23 19:54:01 DEBUG UpdateProducerImpl:13 - Безкоштовний бонус
+2023-07-23 19:54:18 DEBUG UpdateProducerImpl:13 - Безкоштовний бонус
+2023-07-23 19:54:20 DEBUG UpdateProducerImpl:13 - Зробити розрахунок
+2023-07-23 19:54:21 DEBUG UpdateProducerImpl:13 - Повний розбір
+2023-07-23 19:54:22 DEBUG UpdateProducerImpl:13 - Дитячий Дизайн
+2023-07-23 19:54:22 DEBUG UpdateProducerImpl:13 - Перейти в інстаграм
+2023-07-23 19:54:23 DEBUG UpdateProducerImpl:13 - Перейти на сайт
+2023-07-23 19:54:23 DEBUG UpdateProducerImpl:13 - Задати питання
+2023-07-23 19:54:24 DEBUG UpdateProducerImpl:13 - Карта сумісності
+2023-07-23 19:54:24 DEBUG UpdateProducerImpl:13 - Дитячий Дизайн
+2023-07-23 19:54:25 DEBUG UpdateProducerImpl:13 - Повний розбір
+2023-07-23 19:54:25 DEBUG UpdateProducerImpl:13 - Зробити розрахунок
+2023-07-23 19:54:26 DEBUG UpdateProducerImpl:13 - Безкоштовний бонус
+2023-07-23 19:54:33 DEBUG UpdateProducerImpl:13 - Зробити розрахунок
+2023-07-23 19:54:41 DEBUG UpdateProducerImpl:13 - /start
+2023-07-23 19:54:53 DEBUG UpdateProducerImpl:13 - /start
+2023-07-23 19:55:05 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-23 20:16:48 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-23 20:16:49 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-23 20:16:50 DEBUG UpdateProducerImpl:13 - 3/5
+2023-07-23 20:16:53 DEBUG UpdateProducerImpl:13 - Повний розбір
+2023-07-24 12:00:31 DEBUG UpdateProducerImpl:13 - Задати питання
+2023-07-24 12:04:14 DEBUG UpdateProducerImpl:13 - /start
+2023-07-24 12:06:20 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-24 12:07:09 DEBUG UpdateProducerImpl:13 - /start
+2023-07-24 12:07:12 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-24 12:10:13 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-24 12:10:14 DEBUG UpdateProducerImpl:13 - 3/6
+2023-07-24 12:12:01 DEBUG UpdateProducerImpl:13 - Безкоштовний бонус
+2023-07-24 12:12:07 DEBUG UpdateProducerImpl:13 - Повний розбір
+2023-07-24 12:14:02 DEBUG UpdateProducerImpl:13 - Перейти на сайт
+2023-07-24 12:21:01 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-24 12:22:35 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-24 12:26:18 DEBUG UpdateProducerImpl:13 - Зробити розрахунок
+2023-07-24 12:34:13 DEBUG UpdateProducerImpl:13 - Дитячий Дизайн
+2023-07-24 12:37:18 DEBUG UpdateProducerImpl:13 - Задати питання
+2023-07-24 12:41:25 DEBUG UpdateProducerImpl:13 - /start
+2023-07-24 12:41:51 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-24 12:42:34 DEBUG UpdateProducerImpl:13 - Маніфестуючий генератор
+2023-07-24 12:42:44 DEBUG UpdateProducerImpl:13 - 2/4
+2023-07-24 12:43:21 DEBUG UpdateProducerImpl:13 - Дитячий Дизайн
+2023-07-24 12:47:21 DEBUG UpdateProducerImpl:13 - Зробити розрахунок
+2023-07-24 12:50:27 DEBUG UpdateProducerImpl:13 - Перейти на сайт
+2023-07-24 12:50:31 DEBUG UpdateProducerImpl:13 - Перейти в інстаграм
+2023-07-24 12:50:33 DEBUG UpdateProducerImpl:13 - Задати питання
+2023-07-24 12:50:38 DEBUG UpdateProducerImpl:13 - Безкоштовний бонус
+2023-07-24 12:51:41 DEBUG UpdateProducerImpl:13 - Перейти в інстаграм
+2023-07-24 12:51:55 DEBUG UpdateProducerImpl:13 - Дитячий Дизайн
+2023-07-24 12:52:08 DEBUG UpdateProducerImpl:13 - Задати питання
+2023-07-24 12:52:13 DEBUG UpdateProducerImpl:13 - Карта сумісності
+2023-07-24 12:52:22 DEBUG UpdateProducerImpl:13 - Безкоштовний бонус
+2023-07-24 22:12:55 DEBUG UpdateProducerImpl:13 - /start
+2023-07-24 22:12:58 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-24 22:13:00 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-24 22:13:01 DEBUG UpdateProducerImpl:13 - 6/2
+2023-07-24 22:13:05 DEBUG UpdateProducerImpl:13 - Головне меню
+2023-07-24 22:13:11 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-24 22:13:13 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-24 22:13:14 DEBUG UpdateProducerImpl:13 - 6/3
+2023-07-24 22:13:16 DEBUG UpdateProducerImpl:13 - Головне меню
+2023-07-24 22:13:18 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-24 22:13:30 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-24 22:13:31 DEBUG UpdateProducerImpl:13 - 1/4
+2023-07-24 22:23:13 DEBUG UpdateProducerImpl:13 - /start
+2023-07-24 22:23:19 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-24 22:23:20 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-24 22:23:21 DEBUG UpdateProducerImpl:13 - 3/5
+2023-07-24 22:23:25 DEBUG UpdateProducerImpl:13 - Головне меню
+2023-07-24 22:23:27 DEBUG UpdateProducerImpl:13 - Послуги та ціни
+2023-07-24 22:40:05 ERROR UpdateController:225 - Message(messageId=689, messageThreadId=null, from=User(id=491087912, firstName=Artem, isBot=false, lastName=Martyshev, userName=martyshev_a, languageCode=en, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1690227606, chat=Chat(id=491087912, type=private, title=null, firstName=Artem, lastName=Martyshev, userName=martyshev_a, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null), forwardFrom=User(id=764285107, firstName=Юлія Ніквас, isBot=false, lastName=Дизайн Людини, userName=nikvas_julia, languageCode=uk, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=true, addedToAttachmentMenu=null), forwardFromChat=null, forwardDate=1690192815, text=null, entities=null, captionEntities=null, audio=null, document=null, photo=[PhotoSize(fileId=AgACAgIAAxkBAAICsWS-05aJMnIELJgaQspTXRHOHJ-KAAJZ0jEboSLwSVsLd5i7Jl4aAQADAgADcwADLwQ, fileUniqueId=AQADWdIxG6Ei8El4, width=51, height=90, fileSize=1549, filePath=null), PhotoSize(fileId=AgACAgIAAxkBAAICsWS-05aJMnIELJgaQspTXRHOHJ-KAAJZ0jEboSLwSVsLd5i7Jl4aAQADAgADbQADLwQ, fileUniqueId=AQADWdIxG6Ei8Ely, width=180, height=320, fileSize=23066, filePath=null), PhotoSize(fileId=AgACAgIAAxkBAAICsWS-05aJMnIELJgaQspTXRHOHJ-KAAJZ0jEboSLwSVsLd5i7Jl4aAQADAgADeAADLwQ, fileUniqueId=AQADWdIxG6Ei8El9, width=450, height=800, fileSize=95952, filePath=null), PhotoSize(fileId=AgACAgIAAxkBAAICsWS-05aJMnIELJgaQspTXRHOHJ-KAAJZ0jEboSLwSVsLd5i7Jl4aAQADAgADeQADLwQ, fileUniqueId=AQADWdIxG6Ei8El-, width=720, height=1280, fileSize=124690, filePath=null)], sticker=null, video=null, contact=null, location=null, venue=null, animation=null, pinnedMessage=null, newChatMembers=[], leftChatMember=null, newChatTitle=null, newChatPhoto=null, deleteChatPhoto=null, groupchatCreated=null, replyToMessage=null, voice=null, caption=null, superGroupCreated=null, channelChatCreated=null, migrateToChatId=null, migrateFromChatId=null, editDate=null, game=null, forwardFromMessageId=null, invoice=null, successfulPayment=null, videoNote=null, authorSignature=null, forwardSignature=null, mediaGroupId=null, connectedWebsite=null, passportData=null, forwardSenderName=null, poll=null, replyMarkup=null, dice=null, viaBot=null, senderChat=null, proximityAlertTriggered=null, messageAutoDeleteTimerChanged=null, isAutomaticForward=null, hasProtectedContent=null, webAppData=null, videoChatStarted=null, videoChatEnded=null, videoChatParticipantsInvited=null, videoChatScheduled=null, isTopicMessage=null, forumTopicCreated=null, forumTopicClosed=null, forumTopicReopened=null, forumTopicEdited=null, generalForumTopicHidden=null, generalForumTopicUnhidden=null, writeAccessAllowed=null, hasMediaSpoiler=null, userShared=null, chatShared=null)
+2023-07-24 22:45:48 DEBUG UpdateProducerImpl:13 - sdgfsdfg
+2023-07-24 22:45:52 DEBUG UpdateProducerImpl:13 - Безкоштовний бонус
+2023-07-24 22:48:40 DEBUG UpdateProducerImpl:13 - sdf
+2023-07-24 22:48:49 DEBUG UpdateProducerImpl:13 - Головне меню
+2023-07-24 22:48:52 DEBUG UpdateProducerImpl:13 - sdfdfsd
+2023-07-24 22:48:55 DEBUG UpdateProducerImpl:13 - Безкоштовний бонус
+2023-07-24 22:48:58 DEBUG UpdateProducerImpl:13 - Повний розбір
+2023-07-24 22:58:40 DEBUG UpdateProducerImpl:13 - /start
+2023-07-24 22:59:12 ERROR UpdateController:233 - AwACAgIAAxkBAAICxmS-2BFCG7i298FaZHh6HeJBz8asAALbIwACLQ8pSj370WUt0vLmLwQ
+2023-07-24 22:59:55 DEBUG UpdateProducerImpl:13 - /start
+2023-07-24 23:00:17 DEBUG UpdateProducerImpl:13 - /start
+2023-07-24 23:01:08 DEBUG UpdateProducerImpl:13 - /start
+2023-07-24 23:02:35 DEBUG UpdateProducerImpl:13 - /start
+2023-07-24 23:02:41 DEBUG UpdateProducerImpl:13 - /start
+2023-07-24 23:03:11 DEBUG UpdateProducerImpl:13 - /start
+2023-07-24 23:03:13 DEBUG UpdateProducerImpl:13 - Приємно познайомитись
+2023-07-24 23:03:15 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-24 23:03:17 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-24 23:03:18 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-24 23:08:06 DEBUG UpdateProducerImpl:13 - Головне меню
+2023-07-24 23:08:07 DEBUG UpdateProducerImpl:13 - Детальніше про мене
+2023-07-24 23:13:23 DEBUG UpdateProducerImpl:13 - Детальніше про мене
+2023-07-24 23:16:52 DEBUG UpdateProducerImpl:13 - Детальніше про мене
+2023-07-24 23:18:25 DEBUG UpdateProducerImpl:13 - Послуги та ціни
+2023-07-24 23:18:29 DEBUG UpdateProducerImpl:13 - Повний розбір
+2023-07-24 23:18:50 DEBUG UpdateProducerImpl:13 - Карта сумісності
+2023-07-24 23:19:13 DEBUG UpdateProducerImpl:13 - 
+2023-07-24 23:20:33 DEBUG UpdateProducerImpl:13 - 
+2023-07-24 23:20:33 ERROR UpdateController:228 - BQACAgIAAxkBAAIC-WS-3RKaR1TIGUy6lnKzUUS_0Pd1AALbMwACoSL4SUm2180BhWhFLwQ
+2023-07-24 23:21:12 DEBUG UpdateProducerImpl:13 - Головне меню
+2023-07-24 23:21:14 DEBUG UpdateProducerImpl:13 - Детальніше про мене
+2023-07-24 23:21:14 ERROR TelegramBot:76 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendPhoto query: [400] Bad Request: can't use file of type Document as Photo
+2023-07-24 23:22:17 ERROR UpdateController:230 - Message(messageId=767, messageThreadId=null, from=User(id=491087912, firstName=Artem, isBot=false, lastName=Martyshev, userName=martyshev_a, languageCode=en, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1690230138, chat=Chat(id=491087912, type=private, title=null, firstName=Artem, lastName=Martyshev, userName=martyshev_a, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null), forwardFrom=null, forwardFromChat=null, forwardDate=null, text=null, entities=null, captionEntities=null, audio=null, document=null, photo=[PhotoSize(fileId=AgACAgIAAxkBAAIC_2S-3XqBWQpJNR9Uz526Lr7UpmTaAAJhyzEb6JX4SfhHW_fT0OuXAQADAgADcwADLwQ, fileUniqueId=AQADYcsxG-iV-El4, width=60, height=90, fileSize=1368, filePath=null), PhotoSize(fileId=AgACAgIAAxkBAAIC_2S-3XqBWQpJNR9Uz526Lr7UpmTaAAJhyzEb6JX4SfhHW_fT0OuXAQADAgADbQADLwQ, fileUniqueId=AQADYcsxG-iV-Ely, width=213, height=320, fileSize=15160, filePath=null), PhotoSize(fileId=AgACAgIAAxkBAAIC_2S-3XqBWQpJNR9Uz526Lr7UpmTaAAJhyzEb6JX4SfhHW_fT0OuXAQADAgADeAADLwQ, fileUniqueId=AQADYcsxG-iV-El9, width=533, height=800, fileSize=64341, filePath=null), PhotoSize(fileId=AgACAgIAAxkBAAIC_2S-3XqBWQpJNR9Uz526Lr7UpmTaAAJhyzEb6JX4SfhHW_fT0OuXAQADAgADeQADLwQ, fileUniqueId=AQADYcsxG-iV-El-, width=853, height=1280, fileSize=111823, filePath=null)], sticker=null, video=null, contact=null, location=null, venue=null, animation=null, pinnedMessage=null, newChatMembers=[], leftChatMember=null, newChatTitle=null, newChatPhoto=null, deleteChatPhoto=null, groupchatCreated=null, replyToMessage=null, voice=null, caption=null, superGroupCreated=null, channelChatCreated=null, migrateToChatId=null, migrateFromChatId=null, editDate=null, game=null, forwardFromMessageId=null, invoice=null, successfulPayment=null, videoNote=null, authorSignature=null, forwardSignature=null, mediaGroupId=null, connectedWebsite=null, passportData=null, forwardSenderName=null, poll=null, replyMarkup=null, dice=null, viaBot=null, senderChat=null, proximityAlertTriggered=null, messageAutoDeleteTimerChanged=null, isAutomaticForward=null, hasProtectedContent=null, webAppData=null, videoChatStarted=null, videoChatEnded=null, videoChatParticipantsInvited=null, videoChatScheduled=null, isTopicMessage=null, forumTopicCreated=null, forumTopicClosed=null, forumTopicReopened=null, forumTopicEdited=null, generalForumTopicHidden=null, generalForumTopicUnhidden=null, writeAccessAllowed=null, hasMediaSpoiler=null, userShared=null, chatShared=null)
+2023-07-24 23:23:11 DEBUG UpdateProducerImpl:13 - Детальніше про мене
+2023-07-24 23:27:08 DEBUG UpdateProducerImpl:13 - Задати питання чи залишити відгук
+2023-07-24 23:28:01 DEBUG UpdateProducerImpl:13 - іфаіфа
+2023-07-24 23:28:03 DEBUG UpdateProducerImpl:13 - Головне меню
+2023-07-24 23:28:05 DEBUG UpdateProducerImpl:13 - Головне меню
+2023-07-24 23:29:35 DEBUG UpdateProducerImpl:13 - Головне меню
+2023-07-24 23:29:40 DEBUG UpdateProducerImpl:13 - Алеьпь
+2023-07-24 23:31:32 DEBUG UpdateProducerImpl:13 - іваів
+2023-07-24 23:31:48 DEBUG UpdateProducerImpl:13 - Повний розбір
+2023-07-24 23:31:55 DEBUG UpdateProducerImpl:13 - іваів
+2023-07-24 23:32:03 DEBUG UpdateProducerImpl:13 - Головне меню
+2023-07-24 23:32:09 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-24 23:32:12 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-24 23:32:12 DEBUG UpdateProducerImpl:13 - 1/4
+2023-07-24 23:32:17 DEBUG UpdateProducerImpl:13 - Головне меню
+2023-07-24 23:32:19 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-24 23:32:19 DEBUG UpdateProducerImpl:13 - Проектор
+2023-07-24 23:32:20 DEBUG UpdateProducerImpl:13 - 3/6
+2023-07-24 23:32:24 DEBUG UpdateProducerImpl:13 - Головне меню
+2023-07-24 23:32:25 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-24 23:32:26 DEBUG UpdateProducerImpl:13 - Генератор
+2023-07-24 23:32:26 DEBUG UpdateProducerImpl:13 - 2/4
+2023-07-24 23:32:28 DEBUG UpdateProducerImpl:13 - Безкоштовний бонус
+2023-07-24 23:34:46 DEBUG UpdateProducerImpl:13 - Головне меню
+2023-07-24 23:34:47 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-24 23:34:49 DEBUG UpdateProducerImpl:13 - Генератор
+2023-07-24 23:34:50 DEBUG UpdateProducerImpl:13 - 1/4
+2023-07-24 23:34:51 DEBUG UpdateProducerImpl:13 - Головне меню
+2023-07-24 23:34:52 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-24 23:34:53 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-24 23:34:54 DEBUG UpdateProducerImpl:13 - 1/4
+2023-07-24 23:35:10 DEBUG UpdateProducerImpl:13 - Головне меню
+2023-07-24 23:35:11 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-24 23:35:12 DEBUG UpdateProducerImpl:13 - Проектор
+2023-07-24 23:35:12 DEBUG UpdateProducerImpl:13 - 1/4
+2023-07-24 23:35:14 DEBUG UpdateProducerImpl:13 - Дитячий Дизайн
+2023-07-24 23:42:19 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-24 23:42:33 DEBUG UpdateProducerImpl:13 - /start
+2023-07-24 23:42:43 DEBUG UpdateProducerImpl:13 - Приємно познайомитись
+2023-07-24 23:42:49 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-24 23:42:53 DEBUG UpdateProducerImpl:13 - Рефлектор
+2023-07-24 23:42:56 DEBUG UpdateProducerImpl:13 - 3/5
+2023-07-24 23:43:07 DEBUG UpdateProducerImpl:13 - Безкоштовний бонус
+2023-07-24 23:43:11 DEBUG UpdateProducerImpl:13 - Головне меню
+2023-07-24 23:43:22 DEBUG UpdateProducerImpl:13 - Послуги та ціни
+2023-07-24 23:43:33 DEBUG UpdateProducerImpl:13 - Повний розбір
+2023-07-24 23:43:39 DEBUG UpdateProducerImpl:13 - Головне меню
+2023-07-24 23:43:53 DEBUG UpdateProducerImpl:13 - Послуги та ціни
+2023-07-24 23:43:57 DEBUG UpdateProducerImpl:13 - Карта сумісності
+2023-07-24 23:44:05 DEBUG UpdateProducerImpl:13 - Головне меню
+2023-07-25 17:15:54 DEBUG UpdateProducerImpl:13 - /start
+2023-07-25 17:15:58 DEBUG UpdateProducerImpl:13 - Приємно познайомитись
+2023-07-25 17:16:08 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-25 17:16:11 DEBUG UpdateProducerImpl:13 - /start
+2023-07-25 17:16:39 DEBUG UpdateProducerImpl:13 - Приємно познайомитись
+2023-07-25 17:16:44 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-25 17:18:16 DEBUG UpdateProducerImpl:13 - Проектор
+2023-07-25 17:18:19 DEBUG UpdateProducerImpl:13 - 2/4
+2023-07-25 17:18:20 DEBUG UpdateProducerImpl:13 - Генератор
+2023-07-25 17:18:22 DEBUG UpdateProducerImpl:13 - 6/3
+2023-07-25 17:18:29 DEBUG UpdateProducerImpl:13 - Безкоштовний бонус
+2023-07-25 17:18:30 DEBUG UpdateProducerImpl:13 - Безкоштовний бонус
+2023-07-25 17:19:02 DEBUG UpdateProducerImpl:13 - Задати питання чи залишити відгук
+2023-07-25 17:19:14 DEBUG UpdateProducerImpl:13 - Задати питання чи залишити відгук
+2023-07-25 17:21:17 ERROR UpdateController:46 - Received unsupported message typeUpdate(updateId=432088988, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=649223341, type=private, title=null, firstName=Таня, lastName=Ткаченко, userName=taniatkachenkoo, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null), from=User(id=649223341, firstName=Таня, isBot=false, lastName=Ткаченко, userName=taniatkachenkoo, languageCode=uk, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1690294878, oldChatMember=ChatMemberMember(status=member, user=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), newChatMember=ChatMemberBanned(status=kicked, user=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), inviteLink=null, viaChatFolderInviteLink=null), chatMember=null, chatJoinRequest=null)
+2023-07-25 17:21:23 ERROR UpdateController:46 - Received unsupported message typeUpdate(updateId=432088989, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=649223341, type=private, title=null, firstName=Таня, lastName=Ткаченко, userName=taniatkachenkoo, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null), from=User(id=649223341, firstName=Таня, isBot=false, lastName=Ткаченко, userName=taniatkachenkoo, languageCode=uk, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1690294883, oldChatMember=ChatMemberBanned(status=kicked, user=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), newChatMember=ChatMemberMember(status=member, user=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), inviteLink=null, viaChatFolderInviteLink=null), chatMember=null, chatJoinRequest=null)
+2023-07-25 17:21:23 DEBUG UpdateProducerImpl:13 - /start
+2023-07-25 17:21:40 ERROR UpdateController:46 - Received unsupported message typeUpdate(updateId=432088991, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=764285107, type=private, title=null, firstName=Юлія Ніквас, lastName=Дизайн Людини, userName=nikvas_julia, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null), from=User(id=764285107, firstName=Юлія Ніквас, isBot=false, lastName=Дизайн Людини, userName=nikvas_julia, languageCode=uk, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=true, addedToAttachmentMenu=null), date=1690294901, oldChatMember=ChatMemberMember(status=member, user=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), newChatMember=ChatMemberBanned(status=kicked, user=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), inviteLink=null, viaChatFolderInviteLink=null), chatMember=null, chatJoinRequest=null)
+2023-07-25 17:21:45 ERROR UpdateController:46 - Received unsupported message typeUpdate(updateId=432088992, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=764285107, type=private, title=null, firstName=Юлія Ніквас, lastName=Дизайн Людини, userName=nikvas_julia, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null), from=User(id=764285107, firstName=Юлія Ніквас, isBot=false, lastName=Дизайн Людини, userName=nikvas_julia, languageCode=uk, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=true, addedToAttachmentMenu=null), date=1690294906, oldChatMember=ChatMemberBanned(status=kicked, user=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), newChatMember=ChatMemberMember(status=member, user=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), inviteLink=null, viaChatFolderInviteLink=null), chatMember=null, chatJoinRequest=null)
+2023-07-25 17:21:45 DEBUG UpdateProducerImpl:13 - /start
+2023-07-25 17:22:05 DEBUG UpdateProducerImpl:13 - Приємно познайомитись
+2023-07-25 17:22:48 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-25 17:22:49 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-25 17:22:51 DEBUG UpdateProducerImpl:13 - 2/4
+2023-07-25 17:34:06 ERROR UpdateController:46 - Received unsupported message typeUpdate(updateId=432088998, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=764285107, type=private, title=null, firstName=Юлія Ніквас, lastName=Дизайн Людини, userName=nikvas_julia, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null), from=User(id=764285107, firstName=Юлія Ніквас, isBot=false, lastName=Дизайн Людини, userName=nikvas_julia, languageCode=uk, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=true, addedToAttachmentMenu=null), date=1690295647, oldChatMember=ChatMemberMember(status=member, user=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), newChatMember=ChatMemberBanned(status=kicked, user=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), inviteLink=null, viaChatFolderInviteLink=null), chatMember=null, chatJoinRequest=null)
+2023-07-25 17:34:09 ERROR UpdateController:46 - Received unsupported message typeUpdate(updateId=432088999, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=764285107, type=private, title=null, firstName=Юлія Ніквас, lastName=Дизайн Людини, userName=nikvas_julia, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null), from=User(id=764285107, firstName=Юлія Ніквас, isBot=false, lastName=Дизайн Людини, userName=nikvas_julia, languageCode=uk, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=true, addedToAttachmentMenu=null), date=1690295648, oldChatMember=ChatMemberBanned(status=kicked, user=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), newChatMember=ChatMemberMember(status=member, user=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), inviteLink=null, viaChatFolderInviteLink=null), chatMember=null, chatJoinRequest=null)
+2023-07-25 17:34:09 DEBUG UpdateProducerImpl:13 - /start
+2023-07-25 17:34:12 DEBUG UpdateProducerImpl:13 - Приємно познайомитись
+2023-07-25 17:34:36 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-25 17:34:38 DEBUG UpdateProducerImpl:13 - Маніфестуючий генератор
+2023-07-25 17:34:51 DEBUG UpdateProducerImpl:13 - 3/6
+2023-07-25 17:34:57 DEBUG UpdateProducerImpl:13 - Послуги та ціни
+2023-07-25 17:35:24 DEBUG UpdateProducerImpl:13 - Головне меню
+2023-07-25 17:35:26 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-25 17:35:29 DEBUG UpdateProducerImpl:13 - Генератор
+2023-07-25 17:35:30 DEBUG UpdateProducerImpl:13 - 2/4
+2023-07-25 17:35:35 DEBUG UpdateProducerImpl:13 - Детальніше про мене
+2023-07-25 17:35:50 DEBUG UpdateProducerImpl:13 - Послуги та ціни
+2023-07-25 17:35:54 DEBUG UpdateProducerImpl:13 - Головне меню
+2023-07-25 17:35:58 DEBUG UpdateProducerImpl:13 - Задати питання чи залишити відгук
+2023-07-25 17:38:14 DEBUG UpdateProducerImpl:13 - Задати питання чи залишити відгук
+2023-07-25 17:53:31 DEBUG UpdateProducerImpl:13 - /start
+2023-07-25 17:53:40 DEBUG UpdateProducerImpl:13 - /start
+2023-07-25 17:56:53 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 18:00:18 DEBUG UpdateProducerImpl:13 - /start
+2023-07-25 18:00:23 DEBUG UpdateProducerImpl:13 - Приємно познайомитись
+2023-07-25 18:00:24 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-25 18:01:03 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-25 18:07:33 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 18:07:33 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 18:07:33 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 18:07:33 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 18:07:34 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 18:07:36 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-25 18:07:38 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 18:08:52 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 18:08:55 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 18:09:01 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 18:09:01 DEBUG UpdateProducerImpl:13 - /start
+2023-07-25 18:09:03 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 18:10:21 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 18:10:38 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 18:10:40 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 18:10:45 DEBUG UpdateProducerImpl:13 - /start
+2023-07-25 18:10:47 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 18:11:56 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 18:14:06 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 18:20:26 DEBUG UpdateProducerImpl:13 - /start
+2023-07-25 18:20:32 DEBUG UpdateProducerImpl:13 - Приємно познайомитись
+2023-07-25 18:20:39 DEBUG UpdateProducerImpl:13 - А що це?
+2023-07-25 18:20:57 DEBUG UpdateProducerImpl:13 - Маніфестуючий генератор
+2023-07-25 18:21:29 ERROR UpdateController:46 - Received unsupported message typeUpdate(updateId=432089045, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=778104379, type=private, title=null, firstName=Olena, lastName=Martysheva, userName=Olena_Martysheva8, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null), from=User(id=778104379, firstName=Olena, isBot=false, lastName=Martysheva, userName=Olena_Martysheva8, languageCode=uk, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1690298490, oldChatMember=ChatMemberMember(status=member, user=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), newChatMember=ChatMemberBanned(status=kicked, user=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), inviteLink=null, viaChatFolderInviteLink=null), chatMember=null, chatJoinRequest=null)
+2023-07-25 18:23:13 DEBUG UpdateProducerImpl:13 - Оооо
+2023-07-25 18:37:33 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 18:37:47 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-25 18:37:50 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 19:25:21 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-25 19:25:24 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-25 19:25:25 DEBUG UpdateProducerImpl:13 - 3/5
+2023-07-25 19:25:55 DEBUG UpdateProducerImpl:13 - Послуги та ціни
+2023-07-25 19:26:09 DEBUG UpdateProducerImpl:13 - Карта сумісності
+2023-07-25 19:26:22 DEBUG UpdateProducerImpl:13 - Повний розбір
+2023-07-25 19:26:59 DEBUG UpdateProducerImpl:13 - Головне меню
+2023-07-25 19:37:35 ERROR UpdateController:236 - AwACAgIAAxkBAAIEM2S_-lDW8s2ZLRJHE3-foWwxzz1vAAIOJAACa3dJStDA8tnVq4uxLwQ
+2023-07-25 19:39:43 DEBUG UpdateProducerImpl:13 - /start
+2023-07-25 19:39:46 DEBUG UpdateProducerImpl:13 - Приємно познайомитись
+2023-07-25 19:39:48 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-25 19:39:51 DEBUG UpdateProducerImpl:13 - Проектор
+2023-07-25 19:39:52 DEBUG UpdateProducerImpl:13 - 1/4
+2023-07-25 19:40:53 DEBUG UpdateProducerImpl:13 - /start
+2023-07-25 19:40:55 DEBUG UpdateProducerImpl:13 - Приємно познайомитись
+2023-07-25 19:40:58 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-25 19:40:59 DEBUG UpdateProducerImpl:13 - Рефлектор
+2023-07-25 19:41:01 DEBUG UpdateProducerImpl:13 - 3/6
+2023-07-25 19:41:03 DEBUG UpdateProducerImpl:13 - Що ще ви можете про себе дізнатись?
+2023-07-25 19:44:25 DEBUG UpdateProducerImpl:13 - Задати питання чи залишити відгук
+2023-07-25 19:44:25 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-25 19:44:25 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-25 19:44:26 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-25 19:44:26 ERROR UpdateController:46 - Received unsupported message typeUpdate(updateId=432089073, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=764285107, type=private, title=null, firstName=Юлія Ніквас, lastName=Дизайн Людини, userName=nikvas_julia, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null), from=User(id=764285107, firstName=Юлія Ніквас, isBot=false, lastName=Дизайн Людини, userName=nikvas_julia, languageCode=uk, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=true, addedToAttachmentMenu=null), date=1690303412, oldChatMember=ChatMemberMember(status=member, user=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), newChatMember=ChatMemberBanned(status=kicked, user=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), inviteLink=null, viaChatFolderInviteLink=null), chatMember=null, chatJoinRequest=null)
+2023-07-25 19:44:26 ERROR UpdateController:46 - Received unsupported message typeUpdate(updateId=432089074, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=764285107, type=private, title=null, firstName=Юлія Ніквас, lastName=Дизайн Людини, userName=nikvas_julia, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null), from=User(id=764285107, firstName=Юлія Ніквас, isBot=false, lastName=Дизайн Людини, userName=nikvas_julia, languageCode=uk, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=true, addedToAttachmentMenu=null), date=1690303413, oldChatMember=ChatMemberBanned(status=kicked, user=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), newChatMember=ChatMemberMember(status=member, user=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), inviteLink=null, viaChatFolderInviteLink=null), chatMember=null, chatJoinRequest=null)
+2023-07-25 19:44:26 DEBUG UpdateProducerImpl:13 - /start
+2023-07-25 19:44:26 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 19:44:26 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-25 19:44:26 DEBUG UpdateProducerImpl:13 - Безкоштовний бонус
+2023-07-25 19:44:26 DEBUG UpdateProducerImpl:13 - Послуги та ціни
+2023-07-25 19:44:26 DEBUG UpdateProducerImpl:13 - Детальніше про мене
+2023-07-25 19:44:27 DEBUG UpdateProducerImpl:13 - Задати питання чи залишити відгук
+2023-07-25 19:44:27 DEBUG UpdateProducerImpl:13 - Послуги та ціни
+2023-07-25 19:44:44 DEBUG UpdateProducerImpl:13 - Послуги та ціни
+2023-07-25 19:44:58 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 19:44:59 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-25 19:45:00 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-25 19:45:01 DEBUG UpdateProducerImpl:13 - 2/4
+2023-07-25 19:46:20 DEBUG UpdateProducerImpl:13 - Послуги та ціни
+2023-07-25 19:47:20 DEBUG UpdateProducerImpl:13 - Головне меню
+2023-07-25 19:47:23 DEBUG UpdateProducerImpl:13 - Послуги та ціни
+2023-07-25 19:48:00 DEBUG UpdateProducerImpl:13 - Послуги та ціни
+2023-07-25 19:50:50 DEBUG UpdateProducerImpl:13 - Ось тут має бути текст: Оберіть послугу нижче 👇
+2023-07-25 19:51:15 DEBUG UpdateProducerImpl:13 - Послуги та ціни
+2023-07-25 19:51:25 DEBUG UpdateProducerImpl:13 - Головне меню
+2023-07-25 19:51:26 DEBUG UpdateProducerImpl:13 - Що ще ви можете про себе дізнатись?
+2023-07-25 20:07:58 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-25 20:07:59 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-25 20:08:00 DEBUG UpdateProducerImpl:13 - 1/4
+2023-07-25 20:17:51 DEBUG UpdateProducerImpl:13 - Послуги та ціни
+2023-07-25 20:17:52 DEBUG UpdateProducerImpl:13 - Повний розбір
+2023-07-25 20:17:53 ERROR TelegramBot:55 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [400] Bad Request: BUTTON_DATA_INVALID
+2023-07-25 20:19:43 DEBUG UpdateProducerImpl:13 - Повний розбір
+2023-07-25 20:19:45 ERROR UpdateController:46 - Received unsupported message typeUpdate(updateId=432089102, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=CallbackQuery(id=2109206521781952960, from=User(id=491087912, firstName=Artem, isBot=false, lastName=Martyshev, userName=martyshev_a, languageCode=en, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), message=Message(messageId=1172, messageThreadId=null, from=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1690305584, chat=Chat(id=491087912, type=private, title=null, firstName=Artem, lastName=Martyshev, userName=martyshev_a, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null), forwardFrom=null, forwardFromChat=null, forwardDate=null, text=Повний розбір - це інформація у вигляді аудіозаписів тривалістю 4 години та розбита на 2 етапи: першу частину надсилаю у заплановану дату, а другу частину через тиждень. Згідно  досвіду надання розшифровок - так краще засвоюється розбір  та більш зручно для всіх.
+Розшифровка складається з чотирьох основних блоків:
+1) тип та унікальні риси особистості, головна стратегія по життю, як краще приймати рішення, соціальна роль для реалізації у світі
+2) розбір слабких і сильних сторін (центрів), теми, які чіпляють та куди сплавляється вся енергія (зачіпки), суперздібності та інструменти для реалізації призначення (канали)
+3) дрібні налаштування (харчування, здоровʼя, мотивація, фокус уваги, місце сили та ін.)
+4) призначення та глобальна місія, розбір проживання в плюсах та в мінусах
+Кожний блок має рекомендації для втілення інформації у життя та покращення слабких місць.
+Після отримання розбору ви маєте унікальну можливість задавати необмежену кількість питань.
+Вартість повного розбору 4000 грн (можна сплатити частинами).
+Текстовий формат (20 стр у пдф форматі) сплачується додатково 1000 грн., entities=null, captionEntities=null, audio=null, document=null, photo=null, sticker=null, video=null, contact=null, location=null, venue=null, animation=null, pinnedMessage=null, newChatMembers=[], leftChatMember=null, newChatTitle=null, newChatPhoto=null, deleteChatPhoto=null, groupchatCreated=null, replyToMessage=null, voice=null, caption=null, superGroupCreated=null, channelChatCreated=null, migrateToChatId=null, migrateFromChatId=null, editDate=null, game=null, forwardFromMessageId=null, invoice=null, successfulPayment=null, videoNote=null, authorSignature=null, forwardSignature=null, mediaGroupId=null, connectedWebsite=null, passportData=null, forwardSenderName=null, poll=null, replyMarkup=InlineKeyboardMarkup(keyboard=[[InlineKeyboardButton(text=Ошибка, url=null, callbackData=error_msg_text, callbackGame=null, switchInlineQuery=null, switchInlineQueryCurrentChat=null, pay=null, loginUrl=null, webApp=null)]]), dice=null, viaBot=null, senderChat=null, proximityAlertTriggered=null, messageAutoDeleteTimerChanged=null, isAutomaticForward=null, hasProtectedContent=null, webAppData=null, videoChatStarted=null, videoChatEnded=null, videoChatParticipantsInvited=null, videoChatScheduled=null, isTopicMessage=null, forumTopicCreated=null, forumTopicClosed=null, forumTopicReopened=null, forumTopicEdited=null, generalForumTopicHidden=null, generalForumTopicUnhidden=null, writeAccessAllowed=null, hasMediaSpoiler=null, userShared=null, chatShared=null), inlineMessageId=null, data=error_msg_text, gameShortName=null, chatInstance=660710875339612849), editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=null, chatMember=null, chatJoinRequest=null)
+2023-07-25 20:19:46 ERROR UpdateController:46 - Received unsupported message typeUpdate(updateId=432089103, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=CallbackQuery(id=2109206525149510036, from=User(id=491087912, firstName=Artem, isBot=false, lastName=Martyshev, userName=martyshev_a, languageCode=en, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), message=Message(messageId=1172, messageThreadId=null, from=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1690305584, chat=Chat(id=491087912, type=private, title=null, firstName=Artem, lastName=Martyshev, userName=martyshev_a, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null), forwardFrom=null, forwardFromChat=null, forwardDate=null, text=Повний розбір - це інформація у вигляді аудіозаписів тривалістю 4 години та розбита на 2 етапи: першу частину надсилаю у заплановану дату, а другу частину через тиждень. Згідно  досвіду надання розшифровок - так краще засвоюється розбір  та більш зручно для всіх.
+Розшифровка складається з чотирьох основних блоків:
+1) тип та унікальні риси особистості, головна стратегія по життю, як краще приймати рішення, соціальна роль для реалізації у світі
+2) розбір слабких і сильних сторін (центрів), теми, які чіпляють та куди сплавляється вся енергія (зачіпки), суперздібності та інструменти для реалізації призначення (канали)
+3) дрібні налаштування (харчування, здоровʼя, мотивація, фокус уваги, місце сили та ін.)
+4) призначення та глобальна місія, розбір проживання в плюсах та в мінусах
+Кожний блок має рекомендації для втілення інформації у життя та покращення слабких місць.
+Після отримання розбору ви маєте унікальну можливість задавати необмежену кількість питань.
+Вартість повного розбору 4000 грн (можна сплатити частинами).
+Текстовий формат (20 стр у пдф форматі) сплачується додатково 1000 грн., entities=null, captionEntities=null, audio=null, document=null, photo=null, sticker=null, video=null, contact=null, location=null, venue=null, animation=null, pinnedMessage=null, newChatMembers=[], leftChatMember=null, newChatTitle=null, newChatPhoto=null, deleteChatPhoto=null, groupchatCreated=null, replyToMessage=null, voice=null, caption=null, superGroupCreated=null, channelChatCreated=null, migrateToChatId=null, migrateFromChatId=null, editDate=null, game=null, forwardFromMessageId=null, invoice=null, successfulPayment=null, videoNote=null, authorSignature=null, forwardSignature=null, mediaGroupId=null, connectedWebsite=null, passportData=null, forwardSenderName=null, poll=null, replyMarkup=InlineKeyboardMarkup(keyboard=[[InlineKeyboardButton(text=Ошибка, url=null, callbackData=error_msg_text, callbackGame=null, switchInlineQuery=null, switchInlineQueryCurrentChat=null, pay=null, loginUrl=null, webApp=null)]]), dice=null, viaBot=null, senderChat=null, proximityAlertTriggered=null, messageAutoDeleteTimerChanged=null, isAutomaticForward=null, hasProtectedContent=null, webAppData=null, videoChatStarted=null, videoChatEnded=null, videoChatParticipantsInvited=null, videoChatScheduled=null, isTopicMessage=null, forumTopicCreated=null, forumTopicClosed=null, forumTopicReopened=null, forumTopicEdited=null, generalForumTopicHidden=null, generalForumTopicUnhidden=null, writeAccessAllowed=null, hasMediaSpoiler=null, userShared=null, chatShared=null), inlineMessageId=null, data=error_msg_text, gameShortName=null, chatInstance=660710875339612849), editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=null, chatMember=null, chatJoinRequest=null)
+2023-07-25 20:19:46 ERROR UpdateController:46 - Received unsupported message typeUpdate(updateId=432089104, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=CallbackQuery(id=2109206524676967423, from=User(id=491087912, firstName=Artem, isBot=false, lastName=Martyshev, userName=martyshev_a, languageCode=en, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), message=Message(messageId=1172, messageThreadId=null, from=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1690305584, chat=Chat(id=491087912, type=private, title=null, firstName=Artem, lastName=Martyshev, userName=martyshev_a, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null), forwardFrom=null, forwardFromChat=null, forwardDate=null, text=Повний розбір - це інформація у вигляді аудіозаписів тривалістю 4 години та розбита на 2 етапи: першу частину надсилаю у заплановану дату, а другу частину через тиждень. Згідно  досвіду надання розшифровок - так краще засвоюється розбір  та більш зручно для всіх.
+Розшифровка складається з чотирьох основних блоків:
+1) тип та унікальні риси особистості, головна стратегія по життю, як краще приймати рішення, соціальна роль для реалізації у світі
+2) розбір слабких і сильних сторін (центрів), теми, які чіпляють та куди сплавляється вся енергія (зачіпки), суперздібності та інструменти для реалізації призначення (канали)
+3) дрібні налаштування (харчування, здоровʼя, мотивація, фокус уваги, місце сили та ін.)
+4) призначення та глобальна місія, розбір проживання в плюсах та в мінусах
+Кожний блок має рекомендації для втілення інформації у життя та покращення слабких місць.
+Після отримання розбору ви маєте унікальну можливість задавати необмежену кількість питань.
+Вартість повного розбору 4000 грн (можна сплатити частинами).
+Текстовий формат (20 стр у пдф форматі) сплачується додатково 1000 грн., entities=null, captionEntities=null, audio=null, document=null, photo=null, sticker=null, video=null, contact=null, location=null, venue=null, animation=null, pinnedMessage=null, newChatMembers=[], leftChatMember=null, newChatTitle=null, newChatPhoto=null, deleteChatPhoto=null, groupchatCreated=null, replyToMessage=null, voice=null, caption=null, superGroupCreated=null, channelChatCreated=null, migrateToChatId=null, migrateFromChatId=null, editDate=null, game=null, forwardFromMessageId=null, invoice=null, successfulPayment=null, videoNote=null, authorSignature=null, forwardSignature=null, mediaGroupId=null, connectedWebsite=null, passportData=null, forwardSenderName=null, poll=null, replyMarkup=InlineKeyboardMarkup(keyboard=[[InlineKeyboardButton(text=Ошибка, url=null, callbackData=error_msg_text, callbackGame=null, switchInlineQuery=null, switchInlineQueryCurrentChat=null, pay=null, loginUrl=null, webApp=null)]]), dice=null, viaBot=null, senderChat=null, proximityAlertTriggered=null, messageAutoDeleteTimerChanged=null, isAutomaticForward=null, hasProtectedContent=null, webAppData=null, videoChatStarted=null, videoChatEnded=null, videoChatParticipantsInvited=null, videoChatScheduled=null, isTopicMessage=null, forumTopicCreated=null, forumTopicClosed=null, forumTopicReopened=null, forumTopicEdited=null, generalForumTopicHidden=null, generalForumTopicUnhidden=null, writeAccessAllowed=null, hasMediaSpoiler=null, userShared=null, chatShared=null), inlineMessageId=null, data=error_msg_text, gameShortName=null, chatInstance=660710875339612849), editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=null, chatMember=null, chatJoinRequest=null)
+2023-07-25 20:19:47 ERROR UpdateController:46 - Received unsupported message typeUpdate(updateId=432089105, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=CallbackQuery(id=2109206522053734708, from=User(id=491087912, firstName=Artem, isBot=false, lastName=Martyshev, userName=martyshev_a, languageCode=en, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), message=Message(messageId=1172, messageThreadId=null, from=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1690305584, chat=Chat(id=491087912, type=private, title=null, firstName=Artem, lastName=Martyshev, userName=martyshev_a, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null), forwardFrom=null, forwardFromChat=null, forwardDate=null, text=Повний розбір - це інформація у вигляді аудіозаписів тривалістю 4 години та розбита на 2 етапи: першу частину надсилаю у заплановану дату, а другу частину через тиждень. Згідно  досвіду надання розшифровок - так краще засвоюється розбір  та більш зручно для всіх.
+Розшифровка складається з чотирьох основних блоків:
+1) тип та унікальні риси особистості, головна стратегія по життю, як краще приймати рішення, соціальна роль для реалізації у світі
+2) розбір слабких і сильних сторін (центрів), теми, які чіпляють та куди сплавляється вся енергія (зачіпки), суперздібності та інструменти для реалізації призначення (канали)
+3) дрібні налаштування (харчування, здоровʼя, мотивація, фокус уваги, місце сили та ін.)
+4) призначення та глобальна місія, розбір проживання в плюсах та в мінусах
+Кожний блок має рекомендації для втілення інформації у життя та покращення слабких місць.
+Після отримання розбору ви маєте унікальну можливість задавати необмежену кількість питань.
+Вартість повного розбору 4000 грн (можна сплатити частинами).
+Текстовий формат (20 стр у пдф форматі) сплачується додатково 1000 грн., entities=null, captionEntities=null, audio=null, document=null, photo=null, sticker=null, video=null, contact=null, location=null, venue=null, animation=null, pinnedMessage=null, newChatMembers=[], leftChatMember=null, newChatTitle=null, newChatPhoto=null, deleteChatPhoto=null, groupchatCreated=null, replyToMessage=null, voice=null, caption=null, superGroupCreated=null, channelChatCreated=null, migrateToChatId=null, migrateFromChatId=null, editDate=null, game=null, forwardFromMessageId=null, invoice=null, successfulPayment=null, videoNote=null, authorSignature=null, forwardSignature=null, mediaGroupId=null, connectedWebsite=null, passportData=null, forwardSenderName=null, poll=null, replyMarkup=InlineKeyboardMarkup(keyboard=[[InlineKeyboardButton(text=Ошибка, url=null, callbackData=error_msg_text, callbackGame=null, switchInlineQuery=null, switchInlineQueryCurrentChat=null, pay=null, loginUrl=null, webApp=null)]]), dice=null, viaBot=null, senderChat=null, proximityAlertTriggered=null, messageAutoDeleteTimerChanged=null, isAutomaticForward=null, hasProtectedContent=null, webAppData=null, videoChatStarted=null, videoChatEnded=null, videoChatParticipantsInvited=null, videoChatScheduled=null, isTopicMessage=null, forumTopicCreated=null, forumTopicClosed=null, forumTopicReopened=null, forumTopicEdited=null, generalForumTopicHidden=null, generalForumTopicUnhidden=null, writeAccessAllowed=null, hasMediaSpoiler=null, userShared=null, chatShared=null), inlineMessageId=null, data=error_msg_text, gameShortName=null, chatInstance=660710875339612849), editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=null, chatMember=null, chatJoinRequest=null)
+2023-07-25 20:19:47 ERROR UpdateController:46 - Received unsupported message typeUpdate(updateId=432089106, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=CallbackQuery(id=2109206524019442437, from=User(id=491087912, firstName=Artem, isBot=false, lastName=Martyshev, userName=martyshev_a, languageCode=en, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), message=Message(messageId=1172, messageThreadId=null, from=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1690305584, chat=Chat(id=491087912, type=private, title=null, firstName=Artem, lastName=Martyshev, userName=martyshev_a, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null), forwardFrom=null, forwardFromChat=null, forwardDate=null, text=Повний розбір - це інформація у вигляді аудіозаписів тривалістю 4 години та розбита на 2 етапи: першу частину надсилаю у заплановану дату, а другу частину через тиждень. Згідно  досвіду надання розшифровок - так краще засвоюється розбір  та більш зручно для всіх.
+Розшифровка складається з чотирьох основних блоків:
+1) тип та унікальні риси особистості, головна стратегія по життю, як краще приймати рішення, соціальна роль для реалізації у світі
+2) розбір слабких і сильних сторін (центрів), теми, які чіпляють та куди сплавляється вся енергія (зачіпки), суперздібності та інструменти для реалізації призначення (канали)
+3) дрібні налаштування (харчування, здоровʼя, мотивація, фокус уваги, місце сили та ін.)
+4) призначення та глобальна місія, розбір проживання в плюсах та в мінусах
+Кожний блок має рекомендації для втілення інформації у життя та покращення слабких місць.
+Після отримання розбору ви маєте унікальну можливість задавати необмежену кількість питань.
+Вартість повного розбору 4000 грн (можна сплатити частинами).
+Текстовий формат (20 стр у пдф форматі) сплачується додатково 1000 грн., entities=null, captionEntities=null, audio=null, document=null, photo=null, sticker=null, video=null, contact=null, location=null, venue=null, animation=null, pinnedMessage=null, newChatMembers=[], leftChatMember=null, newChatTitle=null, newChatPhoto=null, deleteChatPhoto=null, groupchatCreated=null, replyToMessage=null, voice=null, caption=null, superGroupCreated=null, channelChatCreated=null, migrateToChatId=null, migrateFromChatId=null, editDate=null, game=null, forwardFromMessageId=null, invoice=null, successfulPayment=null, videoNote=null, authorSignature=null, forwardSignature=null, mediaGroupId=null, connectedWebsite=null, passportData=null, forwardSenderName=null, poll=null, replyMarkup=InlineKeyboardMarkup(keyboard=[[InlineKeyboardButton(text=Ошибка, url=null, callbackData=error_msg_text, callbackGame=null, switchInlineQuery=null, switchInlineQueryCurrentChat=null, pay=null, loginUrl=null, webApp=null)]]), dice=null, viaBot=null, senderChat=null, proximityAlertTriggered=null, messageAutoDeleteTimerChanged=null, isAutomaticForward=null, hasProtectedContent=null, webAppData=null, videoChatStarted=null, videoChatEnded=null, videoChatParticipantsInvited=null, videoChatScheduled=null, isTopicMessage=null, forumTopicCreated=null, forumTopicClosed=null, forumTopicReopened=null, forumTopicEdited=null, generalForumTopicHidden=null, generalForumTopicUnhidden=null, writeAccessAllowed=null, hasMediaSpoiler=null, userShared=null, chatShared=null), inlineMessageId=null, data=error_msg_text, gameShortName=null, chatInstance=660710875339612849), editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=null, chatMember=null, chatJoinRequest=null)
+2023-07-25 20:19:50 ERROR UpdateController:46 - Received unsupported message typeUpdate(updateId=432089107, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=CallbackQuery(id=2109206525788999943, from=User(id=491087912, firstName=Artem, isBot=false, lastName=Martyshev, userName=martyshev_a, languageCode=en, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), message=Message(messageId=1172, messageThreadId=null, from=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1690305584, chat=Chat(id=491087912, type=private, title=null, firstName=Artem, lastName=Martyshev, userName=martyshev_a, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null), forwardFrom=null, forwardFromChat=null, forwardDate=null, text=Повний розбір - це інформація у вигляді аудіозаписів тривалістю 4 години та розбита на 2 етапи: першу частину надсилаю у заплановану дату, а другу частину через тиждень. Згідно  досвіду надання розшифровок - так краще засвоюється розбір  та більш зручно для всіх.
+Розшифровка складається з чотирьох основних блоків:
+1) тип та унікальні риси особистості, головна стратегія по життю, як краще приймати рішення, соціальна роль для реалізації у світі
+2) розбір слабких і сильних сторін (центрів), теми, які чіпляють та куди сплавляється вся енергія (зачіпки), суперздібності та інструменти для реалізації призначення (канали)
+3) дрібні налаштування (харчування, здоровʼя, мотивація, фокус уваги, місце сили та ін.)
+4) призначення та глобальна місія, розбір проживання в плюсах та в мінусах
+Кожний блок має рекомендації для втілення інформації у життя та покращення слабких місць.
+Після отримання розбору ви маєте унікальну можливість задавати необмежену кількість питань.
+Вартість повного розбору 4000 грн (можна сплатити частинами).
+Текстовий формат (20 стр у пдф форматі) сплачується додатково 1000 грн., entities=null, captionEntities=null, audio=null, document=null, photo=null, sticker=null, video=null, contact=null, location=null, venue=null, animation=null, pinnedMessage=null, newChatMembers=[], leftChatMember=null, newChatTitle=null, newChatPhoto=null, deleteChatPhoto=null, groupchatCreated=null, replyToMessage=null, voice=null, caption=null, superGroupCreated=null, channelChatCreated=null, migrateToChatId=null, migrateFromChatId=null, editDate=null, game=null, forwardFromMessageId=null, invoice=null, successfulPayment=null, videoNote=null, authorSignature=null, forwardSignature=null, mediaGroupId=null, connectedWebsite=null, passportData=null, forwardSenderName=null, poll=null, replyMarkup=InlineKeyboardMarkup(keyboard=[[InlineKeyboardButton(text=Ошибка, url=null, callbackData=error_msg_text, callbackGame=null, switchInlineQuery=null, switchInlineQueryCurrentChat=null, pay=null, loginUrl=null, webApp=null)]]), dice=null, viaBot=null, senderChat=null, proximityAlertTriggered=null, messageAutoDeleteTimerChanged=null, isAutomaticForward=null, hasProtectedContent=null, webAppData=null, videoChatStarted=null, videoChatEnded=null, videoChatParticipantsInvited=null, videoChatScheduled=null, isTopicMessage=null, forumTopicCreated=null, forumTopicClosed=null, forumTopicReopened=null, forumTopicEdited=null, generalForumTopicHidden=null, generalForumTopicUnhidden=null, writeAccessAllowed=null, hasMediaSpoiler=null, userShared=null, chatShared=null), inlineMessageId=null, data=error_msg_text, gameShortName=null, chatInstance=660710875339612849), editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=null, chatMember=null, chatJoinRequest=null)
+2023-07-25 20:19:51 ERROR UpdateController:46 - Received unsupported message typeUpdate(updateId=432089108, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=CallbackQuery(id=2109206522098175036, from=User(id=491087912, firstName=Artem, isBot=false, lastName=Martyshev, userName=martyshev_a, languageCode=en, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), message=Message(messageId=1172, messageThreadId=null, from=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1690305584, chat=Chat(id=491087912, type=private, title=null, firstName=Artem, lastName=Martyshev, userName=martyshev_a, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null), forwardFrom=null, forwardFromChat=null, forwardDate=null, text=Повний розбір - це інформація у вигляді аудіозаписів тривалістю 4 години та розбита на 2 етапи: першу частину надсилаю у заплановану дату, а другу частину через тиждень. Згідно  досвіду надання розшифровок - так краще засвоюється розбір  та більш зручно для всіх.
+Розшифровка складається з чотирьох основних блоків:
+1) тип та унікальні риси особистості, головна стратегія по життю, як краще приймати рішення, соціальна роль для реалізації у світі
+2) розбір слабких і сильних сторін (центрів), теми, які чіпляють та куди сплавляється вся енергія (зачіпки), суперздібності та інструменти для реалізації призначення (канали)
+3) дрібні налаштування (харчування, здоровʼя, мотивація, фокус уваги, місце сили та ін.)
+4) призначення та глобальна місія, розбір проживання в плюсах та в мінусах
+Кожний блок має рекомендації для втілення інформації у життя та покращення слабких місць.
+Після отримання розбору ви маєте унікальну можливість задавати необмежену кількість питань.
+Вартість повного розбору 4000 грн (можна сплатити частинами).
+Текстовий формат (20 стр у пдф форматі) сплачується додатково 1000 грн., entities=null, captionEntities=null, audio=null, document=null, photo=null, sticker=null, video=null, contact=null, location=null, venue=null, animation=null, pinnedMessage=null, newChatMembers=[], leftChatMember=null, newChatTitle=null, newChatPhoto=null, deleteChatPhoto=null, groupchatCreated=null, replyToMessage=null, voice=null, caption=null, superGroupCreated=null, channelChatCreated=null, migrateToChatId=null, migrateFromChatId=null, editDate=null, game=null, forwardFromMessageId=null, invoice=null, successfulPayment=null, videoNote=null, authorSignature=null, forwardSignature=null, mediaGroupId=null, connectedWebsite=null, passportData=null, forwardSenderName=null, poll=null, replyMarkup=InlineKeyboardMarkup(keyboard=[[InlineKeyboardButton(text=Ошибка, url=null, callbackData=error_msg_text, callbackGame=null, switchInlineQuery=null, switchInlineQueryCurrentChat=null, pay=null, loginUrl=null, webApp=null)]]), dice=null, viaBot=null, senderChat=null, proximityAlertTriggered=null, messageAutoDeleteTimerChanged=null, isAutomaticForward=null, hasProtectedContent=null, webAppData=null, videoChatStarted=null, videoChatEnded=null, videoChatParticipantsInvited=null, videoChatScheduled=null, isTopicMessage=null, forumTopicCreated=null, forumTopicClosed=null, forumTopicReopened=null, forumTopicEdited=null, generalForumTopicHidden=null, generalForumTopicUnhidden=null, writeAccessAllowed=null, hasMediaSpoiler=null, userShared=null, chatShared=null), inlineMessageId=null, data=error_msg_text, gameShortName=null, chatInstance=660710875339612849), editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=null, chatMember=null, chatJoinRequest=null)
+2023-07-25 20:19:51 ERROR UpdateController:46 - Received unsupported message typeUpdate(updateId=432089109, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=CallbackQuery(id=2109206522251518921, from=User(id=491087912, firstName=Artem, isBot=false, lastName=Martyshev, userName=martyshev_a, languageCode=en, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), message=Message(messageId=1172, messageThreadId=null, from=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1690305584, chat=Chat(id=491087912, type=private, title=null, firstName=Artem, lastName=Martyshev, userName=martyshev_a, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null), forwardFrom=null, forwardFromChat=null, forwardDate=null, text=Повний розбір - це інформація у вигляді аудіозаписів тривалістю 4 години та розбита на 2 етапи: першу частину надсилаю у заплановану дату, а другу частину через тиждень. Згідно  досвіду надання розшифровок - так краще засвоюється розбір  та більш зручно для всіх.
+Розшифровка складається з чотирьох основних блоків:
+1) тип та унікальні риси особистості, головна стратегія по життю, як краще приймати рішення, соціальна роль для реалізації у світі
+2) розбір слабких і сильних сторін (центрів), теми, які чіпляють та куди сплавляється вся енергія (зачіпки), суперздібності та інструменти для реалізації призначення (канали)
+3) дрібні налаштування (харчування, здоровʼя, мотивація, фокус уваги, місце сили та ін.)
+4) призначення та глобальна місія, розбір проживання в плюсах та в мінусах
+Кожний блок має рекомендації для втілення інформації у життя та покращення слабких місць.
+Після отримання розбору ви маєте унікальну можливість задавати необмежену кількість питань.
+Вартість повного розбору 4000 грн (можна сплатити частинами).
+Текстовий формат (20 стр у пдф форматі) сплачується додатково 1000 грн., entities=null, captionEntities=null, audio=null, document=null, photo=null, sticker=null, video=null, contact=null, location=null, venue=null, animation=null, pinnedMessage=null, newChatMembers=[], leftChatMember=null, newChatTitle=null, newChatPhoto=null, deleteChatPhoto=null, groupchatCreated=null, replyToMessage=null, voice=null, caption=null, superGroupCreated=null, channelChatCreated=null, migrateToChatId=null, migrateFromChatId=null, editDate=null, game=null, forwardFromMessageId=null, invoice=null, successfulPayment=null, videoNote=null, authorSignature=null, forwardSignature=null, mediaGroupId=null, connectedWebsite=null, passportData=null, forwardSenderName=null, poll=null, replyMarkup=InlineKeyboardMarkup(keyboard=[[InlineKeyboardButton(text=Ошибка, url=null, callbackData=error_msg_text, callbackGame=null, switchInlineQuery=null, switchInlineQueryCurrentChat=null, pay=null, loginUrl=null, webApp=null)]]), dice=null, viaBot=null, senderChat=null, proximityAlertTriggered=null, messageAutoDeleteTimerChanged=null, isAutomaticForward=null, hasProtectedContent=null, webAppData=null, videoChatStarted=null, videoChatEnded=null, videoChatParticipantsInvited=null, videoChatScheduled=null, isTopicMessage=null, forumTopicCreated=null, forumTopicClosed=null, forumTopicReopened=null, forumTopicEdited=null, generalForumTopicHidden=null, generalForumTopicUnhidden=null, writeAccessAllowed=null, hasMediaSpoiler=null, userShared=null, chatShared=null), inlineMessageId=null, data=error_msg_text, gameShortName=null, chatInstance=660710875339612849), editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=null, chatMember=null, chatJoinRequest=null)
+2023-07-25 20:19:52 ERROR UpdateController:46 - Received unsupported message typeUpdate(updateId=432089110, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=CallbackQuery(id=2109206523413679017, from=User(id=491087912, firstName=Artem, isBot=false, lastName=Martyshev, userName=martyshev_a, languageCode=en, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), message=Message(messageId=1172, messageThreadId=null, from=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1690305584, chat=Chat(id=491087912, type=private, title=null, firstName=Artem, lastName=Martyshev, userName=martyshev_a, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null), forwardFrom=null, forwardFromChat=null, forwardDate=null, text=Повний розбір - це інформація у вигляді аудіозаписів тривалістю 4 години та розбита на 2 етапи: першу частину надсилаю у заплановану дату, а другу частину через тиждень. Згідно  досвіду надання розшифровок - так краще засвоюється розбір  та більш зручно для всіх.
+Розшифровка складається з чотирьох основних блоків:
+1) тип та унікальні риси особистості, головна стратегія по життю, як краще приймати рішення, соціальна роль для реалізації у світі
+2) розбір слабких і сильних сторін (центрів), теми, які чіпляють та куди сплавляється вся енергія (зачіпки), суперздібності та інструменти для реалізації призначення (канали)
+3) дрібні налаштування (харчування, здоровʼя, мотивація, фокус уваги, місце сили та ін.)
+4) призначення та глобальна місія, розбір проживання в плюсах та в мінусах
+Кожний блок має рекомендації для втілення інформації у життя та покращення слабких місць.
+Після отримання розбору ви маєте унікальну можливість задавати необмежену кількість питань.
+Вартість повного розбору 4000 грн (можна сплатити частинами).
+Текстовий формат (20 стр у пдф форматі) сплачується додатково 1000 грн., entities=null, captionEntities=null, audio=null, document=null, photo=null, sticker=null, video=null, contact=null, location=null, venue=null, animation=null, pinnedMessage=null, newChatMembers=[], leftChatMember=null, newChatTitle=null, newChatPhoto=null, deleteChatPhoto=null, groupchatCreated=null, replyToMessage=null, voice=null, caption=null, superGroupCreated=null, channelChatCreated=null, migrateToChatId=null, migrateFromChatId=null, editDate=null, game=null, forwardFromMessageId=null, invoice=null, successfulPayment=null, videoNote=null, authorSignature=null, forwardSignature=null, mediaGroupId=null, connectedWebsite=null, passportData=null, forwardSenderName=null, poll=null, replyMarkup=InlineKeyboardMarkup(keyboard=[[InlineKeyboardButton(text=Ошибка, url=null, callbackData=error_msg_text, callbackGame=null, switchInlineQuery=null, switchInlineQueryCurrentChat=null, pay=null, loginUrl=null, webApp=null)]]), dice=null, viaBot=null, senderChat=null, proximityAlertTriggered=null, messageAutoDeleteTimerChanged=null, isAutomaticForward=null, hasProtectedContent=null, webAppData=null, videoChatStarted=null, videoChatEnded=null, videoChatParticipantsInvited=null, videoChatScheduled=null, isTopicMessage=null, forumTopicCreated=null, forumTopicClosed=null, forumTopicReopened=null, forumTopicEdited=null, generalForumTopicHidden=null, generalForumTopicUnhidden=null, writeAccessAllowed=null, hasMediaSpoiler=null, userShared=null, chatShared=null), inlineMessageId=null, data=error_msg_text, gameShortName=null, chatInstance=660710875339612849), editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=null, chatMember=null, chatJoinRequest=null)
+2023-07-25 20:28:38 DEBUG UpdateProducerImpl:13 - Головне меню
+2023-07-25 20:28:43 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-25 20:28:44 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-25 20:28:45 DEBUG UpdateProducerImpl:13 - 1/4
+2023-07-25 20:30:48 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-25 20:30:49 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-25 20:30:50 DEBUG UpdateProducerImpl:13 - 1/4
+2023-07-25 20:31:51 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-25 20:31:53 DEBUG UpdateProducerImpl:13 - Генератор
+2023-07-25 20:31:54 DEBUG UpdateProducerImpl:13 - 3/5
+2023-07-25 20:35:21 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-25 20:35:22 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-25 20:35:23 DEBUG UpdateProducerImpl:13 - 1/4
+2023-07-25 20:35:32 ERROR UpdateController:46 - Received unsupported message typeUpdate(updateId=432089124, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=CallbackQuery(id=2109206521689132492, from=User(id=491087912, firstName=Artem, isBot=false, lastName=Martyshev, userName=martyshev_a, languageCode=en, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), message=Message(messageId=1207, messageThreadId=null, from=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1690306524, chat=Chat(id=491087912, type=private, title=null, firstName=Artem, lastName=Martyshev, userName=martyshev_a, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null), forwardFrom=null, forwardFromChat=null, forwardDate=null, text=Ось що!, entities=null, captionEntities=null, audio=null, document=null, photo=null, sticker=null, video=null, contact=null, location=null, venue=null, animation=null, pinnedMessage=null, newChatMembers=[], leftChatMember=null, newChatTitle=null, newChatPhoto=null, deleteChatPhoto=null, groupchatCreated=null, replyToMessage=null, voice=null, caption=null, superGroupCreated=null, channelChatCreated=null, migrateToChatId=null, migrateFromChatId=null, editDate=null, game=null, forwardFromMessageId=null, invoice=null, successfulPayment=null, videoNote=null, authorSignature=null, forwardSignature=null, mediaGroupId=null, connectedWebsite=null, passportData=null, forwardSenderName=null, poll=null, replyMarkup=InlineKeyboardMarkup(keyboard=[[InlineKeyboardButton(text=Що ще ви можете про себе дізнатись?, url=null, callbackData=more_info, callbackGame=null, switchInlineQuery=null, switchInlineQueryCurrentChat=null, pay=null, loginUrl=null, webApp=null)]]), dice=null, viaBot=null, senderChat=null, proximityAlertTriggered=null, messageAutoDeleteTimerChanged=null, isAutomaticForward=null, hasProtectedContent=null, webAppData=null, videoChatStarted=null, videoChatEnded=null, videoChatParticipantsInvited=null, videoChatScheduled=null, isTopicMessage=null, forumTopicCreated=null, forumTopicClosed=null, forumTopicReopened=null, forumTopicEdited=null, generalForumTopicHidden=null, generalForumTopicUnhidden=null, writeAccessAllowed=null, hasMediaSpoiler=null, userShared=null, chatShared=null), inlineMessageId=null, data=more_info, gameShortName=null, chatInstance=660710875339612849), editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=null, chatMember=null, chatJoinRequest=null)
+2023-07-25 20:37:44 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 20:37:46 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-25 20:37:47 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-25 20:37:48 DEBUG UpdateProducerImpl:13 - 3/5
+2023-07-25 20:51:02 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 20:51:08 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-25 20:51:09 DEBUG UpdateProducerImpl:13 - Проектор
+2023-07-25 20:51:11 DEBUG UpdateProducerImpl:13 - 1/3
+2023-07-25 20:55:57 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 20:55:58 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-25 20:55:59 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-25 20:56:00 DEBUG UpdateProducerImpl:13 - 1/4
+2023-07-25 20:58:21 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 20:58:23 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-25 20:58:24 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-25 20:58:25 DEBUG UpdateProducerImpl:13 - Проектор
+2023-07-25 20:58:27 DEBUG UpdateProducerImpl:13 - 1/4
+2023-07-25 20:58:30 ERROR UpdateController:49 - 491087912
+2023-07-25 21:00:52 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 21:00:54 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-25 21:00:56 DEBUG UpdateProducerImpl:13 - Проектор
+2023-07-25 21:00:57 DEBUG UpdateProducerImpl:13 - 1/4
+2023-07-25 21:01:00 ERROR UpdateController:49 - 491087912
+2023-07-25 21:03:42 ERROR UpdateController:49 - 491087912
+2023-07-25 21:04:26 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-25 21:04:27 DEBUG UpdateProducerImpl:13 - Маніфестор
+2023-07-25 21:04:28 DEBUG UpdateProducerImpl:13 - 1/4
+2023-07-25 21:04:46 DEBUG UpdateProducerImpl:13 - Що ще ви можете про себе дізнатись?
+2023-07-25 21:05:01 DEBUG UpdateProducerImpl:13 - Послуги та ціни
+2023-07-25 21:05:03 DEBUG UpdateProducerImpl:13 - Повний розбір
+2023-07-25 21:05:07 DEBUG UpdateProducerImpl:13 - Головне меню
+2023-07-25 21:05:11 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-25 21:05:12 DEBUG UpdateProducerImpl:13 - Генератор
+2023-07-25 21:05:14 DEBUG UpdateProducerImpl:13 - 2/4
+2023-07-25 21:07:49 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 21:07:51 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-25 21:07:52 DEBUG UpdateProducerImpl:13 - Генератор
+2023-07-25 21:07:55 DEBUG UpdateProducerImpl:13 - 2/4
+2023-07-25 21:10:24 DEBUG UpdateProducerImpl:13 - 1/4
+2023-07-25 21:10:36 DEBUG UpdateProducerImpl:13 - 1/4
+2023-07-25 21:11:04 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-25 21:11:06 DEBUG UpdateProducerImpl:13 - Маніфестуючий генератор
+2023-07-25 21:11:06 ERROR TelegramBot:55 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [400] Bad Request: message must be non-empty
+2023-07-25 21:11:10 DEBUG UpdateProducerImpl:13 - 3/5
+2023-07-25 21:12:40 ERROR UpdateController:260 - AwACAgIAAxkBAAIFGWTAEJqNPUpc5yOl1Q31HQegJn4eAAIgJAACa3dJSrQmmFm38DSCLwQ
+2023-07-25 21:14:14 ERROR UpdateController:260 - AwACAgIAAxkBAAIFGmTAEPfJCvrLMGtCa4k_9ccEQ4pPAAIGJAACa3dBSlBZHShU6yDKLwQ
+2023-07-25 21:15:17 DEBUG UpdateProducerImpl:13 - /main
+2023-07-25 21:15:19 DEBUG UpdateProducerImpl:13 - Обрати тип та профіль
+2023-07-25 21:15:21 DEBUG UpdateProducerImpl:13 - Генератор
+2023-07-25 21:15:24 DEBUG UpdateProducerImpl:13 - 2/4
+2023-07-25 21:15:24 ERROR TelegramBot:55 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Text parameter can't be empty in method: SendMessage(chatId=491087912, messageThreadId=null, text=, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=InlineKeyboardMarkup(keyboard=[[InlineKeyboardButton(text=Що ще ви можете про себе дізнатись?, url=null, callbackData=more_info, callbackGame=null, switchInlineQuery=null, switchInlineQueryCurrentChat=null, pay=null, loginUrl=null, webApp=null)]]), entities=null, allowSendingWithoutReply=null, protectContent=null)
+2023-07-25 22:08:10 ERROR UpdateController:64 - Received unsupported message typeUpdate(updateId=432089178, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=764285107, type=private, title=null, firstName=Юлія Ніквас, lastName=Дизайн Людини, userName=nikvas_julia, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null), from=User(id=764285107, firstName=Юлія Ніквас, isBot=false, lastName=Дизайн Людини, userName=nikvas_julia, languageCode=uk, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=true, addedToAttachmentMenu=null), date=1690312092, oldChatMember=ChatMemberMember(status=member, user=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), newChatMember=ChatMemberBanned(status=kicked, user=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), inviteLink=null, viaChatFolderInviteLink=null), chatMember=null, chatJoinRequest=null)
+2023-07-25 22:08:12 ERROR UpdateController:64 - Received unsupported message typeUpdate(updateId=432089179, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=764285107, type=private, title=null, firstName=Юлія Ніквас, lastName=Дизайн Людини, userName=nikvas_julia, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null), from=User(id=764285107, firstName=Юлія Ніквас, isBot=false, lastName=Дизайн Людини, userName=nikvas_julia, languageCode=uk, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=true, addedToAttachmentMenu=null), date=1690312093, oldChatMember=ChatMemberBanned(status=kicked, user=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), newChatMember=ChatMemberMember(status=member, user=User(id=5927181594, firstName=Pозшифровка Дизайн Людини, isBot=true, lastName=null, userName=dyzayn_lyudyny_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), inviteLink=null, viaChatFolderInviteLink=null), chatMember=null, chatJoinRequest=null)
+2023-07-25 22:08:12 DEBUG UpdateProducerImpl:13 - /start
+2023-07-25 22:09:02 DEBUG UpdateProducerImpl:13 - Приємно познайомитись
+2023-07-25 22:09:08 DEBUG UpdateProducerImpl:13 - Так знаю!
+2023-07-25 22:09:10 DEBUG UpdateProducerImpl:13 - Генератор
+2023-07-25 22:09:12 DEBUG UpdateProducerImpl:13 - 5/2
+2023-07-25 22:14:08 DEBUG UpdateProducerImpl:13 - Безкоштовний бонус
+2023-07-25 22:14:22 DEBUG UpdateProducerImpl:13 - Детальніше про мене
+2023-07-25 22:15:00 DEBUG UpdateProducerImpl:13 - Послуги та ціни
+2023-07-25 22:15:06 DEBUG UpdateProducerImpl:13 - Головне меню
+2023-07-25 22:15:14 DEBUG UpdateProducerImpl:13 - Задати питання чи залишити відгук
