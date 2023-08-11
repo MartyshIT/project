@@ -47,15 +47,29 @@ public class UpdateController {
             String call_data = update.getCallbackQuery().getData();
             long chat_id = update.getCallbackQuery().getMessage().getChatId();
             if (call_data.equals("more_info")){
+
+//                sendAudio(update,"AwACAgIAAxkBAAIBqWS9UsUH4SMzZZ-b2AhhccvXhqrDAAJBJAACa3dJSqMoUM5e9EEFLwQ");
+//                sendMessage = messageUtils.generateSendMessageWithText(update, "❇\uFE0F Дизайн Людини - це багатогранна система самопізнання, яка розкриває природу людини на різних рівнях її життя, шар за шаром знімаючи все зайве та допомогаючи згадати свої сильні потужні сторони та дари, закладені від народження.");
+//                setView(sendMessage);
+//                sendMessage = messageUtils.generateSendMessageWithText(update, "\uD83D\uDD0AУ повному розборі я майже 4 години говорю тільки про вас та ваші налаштування. Це найкраща інструкція до того, як бути собою та жити своє.");
+//                sendMessage.setReplyMarkup(messageUtils.knowMore(update));
+//                setView(sendMessage);
+
                 var sendMessage = new SendMessage();
                 sendMessage.setChatId(chat_id);
-                var button = messageUtils.mainMenuKeyboard();
+                var button = messageUtils.knowMore(update);
                 sendMessage.setReplyMarkup(button);
-                sendMessage.setText("Оберіть, що Вас цікавить");
+                sendMessage.setText("Це лише маленька частина того, що ви можете дізнатись про себе по Дизайну Людини. \n" +
+                        "\n" +
+                        "\uD83D\uDFE2\uD83D\uDD36Що значать ці фігурки та цифри на вашому бодіграфі? Як вам краще заробляти гроші?\uD83D\uDCB0");
                 SendVoice audio = new SendVoice();
                 audio.setChatId(chat_id);
                 audio.setVoice(new InputFile("AwACAgIAAxkBAAIBqWS9UsUH4SMzZZ-b2AhhccvXhqrDAAJBJAACa3dJSqMoUM5e9EEFLwQ"));
+                telegramBot.sendAnswerMessage(sendMessage);
                 telegramBot.sendAudio(audio);
+                sendMessage.setText("❇\uFE0F Дизайн Людини - це багатогранна система самопізнання, яка розкриває природу людини на різних рівнях її життя, шар за шаром знімаючи все зайве та допомогаючи згадати свої сильні потужні сторони та дари, закладені від народження.");
+                telegramBot.sendAnswerMessage(sendMessage);
+                sendMessage.setText("\uD83D\uDD0AУ повному розборі я майже 4 години говорю тільки про вас та ваші налаштування. Це найкраща інструкція до того, як бути собою та жити своє.");
                 telegramBot.sendAnswerMessage(sendMessage);
             }
 
@@ -68,6 +82,7 @@ public class UpdateController {
     private String[] typeProfile = new String[2];
 
     private int usingTimes;
+    private String service;
 
     private void distributeMessagesByType(Update update) {
         var message = update.getMessage();
@@ -99,11 +114,11 @@ public class UpdateController {
                     greetingMessage(update);
                     break;
                 }
-                case "Так знаю!", "Так":{
+                case "\uD83D\uDE0EТак, знаю", "Так":{
                     chooseYourType(update);
                     break;
                 }
-                case "А що це?", "Ні":{
+                case "\uD83D\uDE33Ні, не знаю", "Ні":{
                     info(update);
                     chooseYourOwnedType(update);
                     break;
@@ -206,11 +221,8 @@ public class UpdateController {
                     freeBonus(update);
                     break;
                 }
-                case "Повний розбір": {
-                    fullCase(update);
-                    break;
-                }
-                case "Дитячий Дизайн": {
+
+                case "Дитячий дизайн": {
                     kidDesign(update);
                     break;
                 }
@@ -218,7 +230,7 @@ public class UpdateController {
                     consistenceCard(update);
                     break;
                 }
-                case "Головне меню", "/main": {
+                case "Головне меню", "/main", "Подивитись інші послуги": {
                     callMainMenu(update);
                     break;
                 }
@@ -227,7 +239,7 @@ public class UpdateController {
                     break;
                 }
                 case "Детальніше про мене":{
-                    abutMe(update);
+                    aboutMe(update);
                     break;
                 }
                 case "Задати питання чи залишити відгук": {
@@ -236,6 +248,14 @@ public class UpdateController {
                 }
                 case "Що ще ви можете про себе дізнатись?": {
                     makeBoardDefault(update);
+                    break;
+                }
+                case "Дізнатись більше", "Повний розбір":{
+                    fullRozbir(update);
+                    break;
+                }
+                case "Дізнатись вартість":{
+                    knowPrice(update);
                     break;
                 }
                 default:{
@@ -277,6 +297,76 @@ public class UpdateController {
 
     }
 
+    private void knowPrice(Update update) {
+        var sendMessage = messageUtils.generateSendMessageWithText(update, "");
+        if(service == "full") {
+            sendMessage.setText("✅Кожний блок має рекомендації для втілення інформації у життя, рекомендації по роботі зі слабкими сторонами та посиленням потужних сторін.\n" +
+                    "\n" +
+                    "⁉\uFE0FПісля отримання розбору ви маєте унікальну можливість  - задавати необмежену кількість питань та отримувати рекомендації по втіленню інформації.\n" +
+                    "\n" +
+                    "\uD83E\uDEF0Вартість повного розбору в форматі аудіозаписів 5500 грн\n" +
+                    "\n" +
+                    "\uD83D\uDCD1Текстовий формат оплачується окремо 500 грн");
+        }
+        else if(service == "kid") {
+            sendMessage.setText("\uD83D\uDD50Розбір у вигляді аудіозаписів тривалістю приблизно 1 година \n" +
+                    "\n" +
+                    "❓Після розбору можна задавати питання та уточнення\n" +
+                    "\n" +
+                    "\uD83E\uDEF0Вартість Дитячого Дизайну 2400 грн");
+        }
+
+        else if (service == "card"){
+            sendMessage.setText("\uD83D\uDD50Розбір у вигляді аудіозаписів тривалістю приблизно 1 година\n" +
+                    "\n" +
+                    "❓Після розбору можна задавати питання та уточнення\n" +
+                    "\n" +
+                    "\uD83E\uDEF0Вартість Карти Сумісності 2400 грн");
+        }
+            var keyboardMarkup = messageUtils.other(update);
+            var inlineMarkup = messageUtils.bookButton();
+            sendMessage.setReplyMarkup(inlineMarkup);
+            setView(sendMessage);
+            sendMessage = messageUtils.generateSendMessageWithText(update, "Ще щось цікавить?");
+            sendMessage.setReplyMarkup(keyboardMarkup);
+            setView(sendMessage);
+
+    }
+
+    private void fullRozbir(Update update) {
+        var sendMessage = messageUtils.generateSendMessageWithText(update, "\uD83D\uDE4E\u200D♀\uFE0FПовний розбір - це інформація у вигляді аудіозаписів тривалістю 4 години та розбита на 2 етапи: першу частину надсилаю у заплановану дату, а другу частину через тиждень. Згідно  досвіду надання розшифровок - так краще засвоюється розбір  та більш зручно для всіх.");
+        setView(sendMessage);
+        sendMessage = messageUtils.generateSendMessageWithText(update, "Розшифровка складається з чотирьох основних блоків:\n" +
+                "\n" +
+                "1\uFE0F⃣БЛОК. Тип, профіль, стратегія та авторитет:\n" +
+                "- про ваші унікальні риси та можливості\n" +
+                "- як вам краще рухатися по життю\n" +
+                "- як краще приймати рішення\n" +
+                "- яка ваша соціальна роль для реалізації у світі");
+        setView(sendMessage);
+        sendMessage = messageUtils.generateSendMessageWithText(update, "2\uFE0F⃣БЛОК. Розбір центрів та зачіпок:\n" +
+                "- про ваші слабкі сторони і що з ними робити\n" +
+                "- про сильні сторони і як їх розвивати\n" +
+                "- про теми, які вас постійно чіпляють та дратують \n" +
+                "- про діри, куди сплавляється вся ваша енергія");
+        setView(sendMessage);
+        sendMessage = messageUtils.generateSendMessageWithText(update, "3\uFE0F⃣БЛОК. Дрібні налаштування:\n" +
+                "- який ваш тип харчування\n" +
+                "- тип здоровʼя та тон тіла\n" +
+                "- місце сили, яке розкриває ваш потенціал\n" +
+                "- фокус вашої уваги та мотивація");
+        setView(sendMessage);
+        sendMessage = messageUtils.generateSendMessageWithText(update, "4\uFE0F⃣БЛОК. Призначення:\n" +
+                "- ваша глобальна місія на життя\n" +
+                "- розбір інкарнаційного хреста\n" +
+                "- проживання призначення в плюсах та в мінусах\n" +
+                "- канали - ваші інструменти для реалізації призначення");
+        var keyboardMarkup = messageUtils.knowPrice(update);
+        sendMessage.setReplyMarkup(keyboardMarkup);
+        setView(sendMessage);
+        service = "full";
+    }
+
     private void rateQuestion(Update update) {
         var sendMessage = messageUtils.generateSendMessageWithText(update, "Зробити це Ви можете написавши мені в особисті за кнопкою нижче");
         var keyboardMarkup = messageUtils.rateQuestionKeyboard(update);
@@ -284,17 +374,25 @@ public class UpdateController {
         setView(sendMessage);
     }
 
-    private void abutMe(Update update) {
-        var sendMessage = messageUtils.generateSendMessageWithText(update, "Привіт!\n" +
-                "Я Юлія Ніквас - коуч, психолог, експерт системи Дизайн Людини. Окрім цього я засновниця трансформаційного клубу «Жіночий Океан» та організатор одноіменного фестивалю, ігропрактик та спеціаліст по створенню трансформаційних ігор. \n" +
+    private void aboutMe(Update update) {
+        var sendMessage = messageUtils.generateSendMessageWithText(update, "Привіт!\uD83D\uDE4C\n" +
+                "Я Юлія Ніквас - коуч, психолог, експерт системи Дизайн Людини.\n" +
                 "\n" +
-                "У світі Дизайну я майже 4 роки і за цей час мені вдалося поєднати свої глибокі пізнання в психології, особистий досвід та особливості системи Human Design. Я Маніфестуючий Генератор 2/4 з каналом 13-33 та з 23 воротами у Меркурію, то ж моя унікальність полягає в тому, щоб передати світові досвід та складні речі дуже простими і зрозумілими словами, роблячи це легко і з задоволенням. \n" +
-                "\n" +
-                "У моєму інстаграмі ти знайдеш купу цікавої інформації, яку можна дивитися у своєму Дизайні та дізнаватися щось нове про себе. Окрім Дизайну Людини я веду ще купу крутих проектів (як справжній МГ), з ними ти можеш ознайомитися на моєму сайті.");
+                "\uD83D\uDC33Окрім цього я засновниця трансформаційного клубу «Жіночий Океан» та організатор одноіменного фестивалю, ігропрактик та спеціаліст по створенню трансформаційних ігор. Приєднуйтесь до нашого клубу на сторінці: https://instagram.com/womanocean_space");
         var keyboardMarkup = messageUtils.aboutMeKeyboard(update);
-        sendMessage.setReplyMarkup(keyboardMarkup);
+
         sendPhoto(update, "AgACAgIAAxkBAAIC_2S-3XqBWQpJNR9Uz526Lr7UpmTaAAJhyzEb6JX4SfhHW_fT0OuXAQADAgADcwADLwQ");
         setView(sendMessage);
+        sendMessage.setText("У світі Дизайну я майже 4\uFE0F⃣ роки і за цей час мені вдалося поєднати свої глибокі пізнання в психології, особистий досвід та особливості системи Human Design. \n" +
+                "\n" +
+                "Я Маніфестуючий Генератор 2/4 з каналом 13-33 та з 23 воротами у Меркурію, то ж моя унікальність полягає в тому, щоб передати світові досвід та складні речі дуже простими і зрозумілими словами, роблячи це легко і з задоволенням\uD83E\uDD70");
+        setView(sendMessage);
+        sendMessage.setText("У моєму інстаграмі ви знайдете купу цікавої інформації, яку можна дивитися у своєму Дизайні та дізнаватися щось нове про себе. \n" +
+                "\n" +
+                "Окрім Дизайну Людини, я займаюсь розвитком жінок за допомогою своїх курсів та марафонів, з якими ви можете ознайомитися на моєму сайті\uD83D\uDC47");
+        sendMessage.setReplyMarkup(keyboardMarkup);
+        setView(sendMessage);
+
     }
 
     private void greeting(Update update) {
@@ -329,38 +427,40 @@ public class UpdateController {
     }
 
     private void kidDesign(Update update) {
-        var sendMessage = messageUtils.generateSendMessageWithText(update, "Дитячий Дизайн - це унікальна можливість виховати впевнену та гармонійну дитину, розкрити та пітримувати розвиток її талантів, розуміти її і легко комунікувати.  Дитячий розбір дає відповіді на такі питання: \n" +
-                "як впливати та доносити прості речі? \n" +
-                "як і куди направляти енергію? \n" +
-                "які таланти закладені від природи? \n" +
-                "на що звернути увагу, щоб не заблокувати природні здібності? \n" +
-                "як не зламати те, що закладено природою?\n" +
-                "яка генетична травма активована від природи?\n" +
-                "який тип харчування? \n" +
-                "який сон та графік дня необхідний, щоб правильно звільняти і наповнювати енергію? \n" +
-                "Після Дитячої Розшифровки найголовніше, що отримують батьки - це розуміння своєї дитини і впевненність у своєму батьківстві\n" +
-                "Розбір у вигляді аудіозаписів тривалістю приблизно 1 година.\n" +
-                "Вартість 2400 грн");
-        var button = messageUtils.bookButton();
+        var sendMessage = messageUtils.generateSendMessageWithText(update, "\uD83D\uDC76Дитячий Дизайн - це унікальна можливість виховати впевнену та гармонійну дитину, розкрити та підримувати розвиток її талантів, розуміти її і легко комунікувати.  Це інструкція, яка допомагає батькам не засуджувати себе за неправильні дії і зрозуміти «як краще» для дитини, а не «як правильно».");
+        setView(sendMessage);
+        sendMessage = messageUtils.generateSendMessageWithText(update, "Дитячий розбір дає відповіді на такі питання: \n" +
+                "\uD83E\uDDF8як впливати та доносити прості речі? \n" +
+                "\uD83E\uDDF8як і куди направляти енергію? \n" +
+                "\uD83E\uDDF8які таланти закладені від природи? \n" +
+                "\uD83E\uDDF8на що звернути увагу, щоб не заблокувати природні здібності? \n" +
+                "\uD83E\uDDF8як не зламати те, що закладено природою?\n" +
+                "\uD83E\uDDF8яка генетична травма закладена?\n" +
+                "\uD83E\uDDF8який тип харчування? \n" +
+                "\uD83E\uDDF8який сон та графік дня необхідний, щоб правильно звільняти і наповнювати енергію?");
+        setView(sendMessage);
+        sendMessage = messageUtils.generateSendMessageWithText(update, "\uD83D\uDC68\u200D\uD83D\uDC69\u200D\uD83D\uDC67Після Дитячої Розшифровки найголовніше, що отримують батьки - це розуміння своєї дитини і впевненність у своєму батьківстві!");
+        var button = messageUtils.knowPrice(update);
         sendMessage.setReplyMarkup(button);
         setView(sendMessage);
+        service = "kid";
     }
 
     private void consistenceCard(Update update) {
-        var sendMessage = messageUtils.generateSendMessageWithText(update, "Розшифровка Карти Сумісності дозволяє партнерам розуміти один одного, мінімізувати конфлікти, покращити сексуальні стосунки і найголовніше - прийняти себе та свого партнера таким, який він є. Це ідеальна можливість вийти на новий рівень відносин безболісно та гармонійно.\n" +
-                "Якщо навіть лише один з партнерів знає Дизайн пари, то цього достатньо, щоб покращити стосунки, оскільки наші партнери - це завжди наше відзеркалення. І коли ми йдемо у розвиток та усвідомлену роботу над собою, то наші партнери підтягуються автоматично на наш рівень. \n" +
-                "Розбір складається з таких блоків:\n" +
-                " 1. сумісність типів та профілей\n" +
-                " 2. вплив один на одного, огляд сильних та слабких сторін\n" +
-                " 3. сексуальні стратегії та теми притяжіння\n" +
-                " 4. генетична травма та цінності (причини конфліктів та як їх уникнути)\n" +
-                " 5. формула сумісності та розбір електромагнітів (іскри у стосунках)\n" +
-                "Дізнайтеся про формулу вашої пари та нові здібності, які зʼявляються у поєднанні ваших бодіграфів за допомогою розрахунку Карти Сумісності.\n" +
-                "Розбір у вигляді аудіозаписів тривалістю приблизно 1 година.\n" +
-                "Вартість 2400 грн");
-        var button = messageUtils.bookButton();
+        var sendMessage = messageUtils.generateSendMessageWithText(update, "\uD83D\uDC69\u200D❤\uFE0F\u200D\uD83D\uDC68Розшифровка Карти Сумісності дозволяє партнерам розуміти один одного, мінімізувати конфлікти, покращити сексуальні стосунки і найголовніше - прийняти себе та свого партнера таким, який він є. Це ідеальна можливість вийти на новий рівень відносин безболісно та гармонійно.");
+        setView(sendMessage);
+        sendMessage = messageUtils.generateSendMessageWithText(update, "Розбір складається з таких блоків:\n" +
+                "\uD83D\uDC9Fсумісність типів та профілей\n" +
+                "\uD83D\uDC9Fвплив один на одного, огляд сильних та слабких сторін\n" +
+                "\uD83D\uDC9Fсексуальні стратегії та теми притяжіння\n" +
+                "\uD83D\uDC9Fгенетична травма та цінності (причини конфліктів та як їх уникнути)\n" +
+                "\uD83D\uDC9Fформула сумісності та розбір електромагнітів (іскри у стосунках)");
+        setView(sendMessage);
+        sendMessage = messageUtils.generateSendMessageWithText(update, "Якщо навіть лише один з партнерів знає Дизайн пари, то цього достатньо, щоб покращити стосунки, оскільки наші партнери - це завжди наше відзеркалення\uD83E\uDE9E. І коли ми йдемо у розвиток та усвідомлену роботу над собою, то наші партнери підтягуються автоматично на наш рівень\uD83D\uDC95");
+        var button = messageUtils.knowPrice(update);
         sendMessage.setReplyMarkup(button);
         setView(sendMessage);
+        service = "card";
     }
 
     private void freeBonus(Update update) {
@@ -387,11 +487,10 @@ public class UpdateController {
     }
 
     private void makeBoardDefault(Update update) {
-        sendAudio(update,"AwACAgIAAxkBAAIBqWS9UsUH4SMzZZ-b2AhhccvXhqrDAAJBJAACa3dJSqMoUM5e9EEFLwQ");
-        var sendMessage = messageUtils.generateSendMessageWithText(update, "В головному меню Ви можете обрати що ще бажаєте дізнатись");
-        var keyboardMarkup = messageUtils.mainMenuKeyboard();
-        sendMessage.setReplyMarkup(keyboardMarkup);
-        setView(sendMessage);
+
+
+
+
 
     }
 
@@ -409,6 +508,7 @@ public class UpdateController {
         sendMessage.setReplyMarkup(keyboardMarkup);
         setView(sendMessage);
     }
+
 
     private void processingMessage(Update update) {
         var sendMessage = messageUtils.generateSendMessageWithText(update,
@@ -437,12 +537,19 @@ public class UpdateController {
 
     private void info(Update update) {
         var sendMessage = messageUtils.generateSendMessageWithText(update,
-                "Для того, щоб дізнатися свій тип і профіль, необхідно зробити простий розрахунок. Для цього" +
-                        " натисни на кнопку меню, що знаходиться ліворуч від поля вводу тексту. "+
-                "Повертайся та обирай свій тип і профіль, щоб отримати дизайн. Обовʼязково зроби скрін свого " +
-                        "бодіграфу та інших даних як показано нижче - це тобі знадобиться, коли ти будеш спостегрігати " +
-                        "у моєму інстаграмі за різними фішками по Дизайну Людини і дізнаватися про себе нове. УВАГА. Зробити цей розбір " +
-                        "можна лише двічі, тож будьте уважні");
+                "Для того, щоб дізнатися свій тип і профіль, необхідно зробити простий розрахунок. Введіть свої дані у форму, яка зʼявиться нижче, як на прикладі");
+        setView(sendMessage);
+        sendPhoto(update, "AgACAgIAAxkBAAIFfGTVa2-vRGccyBqykeXgu1nhutMJAAL6zDEbBhyISq_OSl0xSWmpAQADAgADcwADMAQ");
+        sendMessage = messageUtils.generateSendMessageWithText(update, "‼\uFE0F Якщо у переліку немає вашого міста народження - напишіть найближче до нього  велике місто.");
+        setView(sendMessage);
+        sendMessage = messageUtils.generateSendMessageWithText(update, "⏰ Якщо ви не знаєте свого точного часу - визначте період часу народження (наприклад, з 11 до 13 години) і подивіться, чи змінюється тип і профіль  за цей проміжок, вбиваючи при цьому час через кожні півгодини (наприклад, 11:00, потім 11:30, потім 12:00, і так до 13:00).");
+        setView(sendMessage);
+        sendPhoto(update, "AgACAgIAAxkBAAIFfWTVbByNk5ZCgn3KApoJW3Rs2oz1AAI3zTEbBhyISs8sd7BvS8VtAQADAgADcwADMAQ");
+        sendMessage = messageUtils.generateSendMessageWithText(update, "\uD83D\uDCF2Обовʼязково зробіть скрін свого бодіграфу та інших даних - це вам знадобиться, коли ви будете спостерігати у моєму інстаграмі за різними фішками по Дизайну Людини і дізнаватися про себе нове");
+        setView(sendMessage);
+        sendMessage = messageUtils.generateSendMessageWithText(update, "Після розрахунку перейдіть в Меню та оберіть свій Тип та Профіль.\n" +
+                "\n" +
+                "‼\uFE0F Будьте уважні - обрати свій тип та профіль можна тільки двічі.");
         var inlineKeyboard = messageUtils.countButton();
         sendMessage.setReplyMarkup(inlineKeyboard);
         setView(sendMessage);
@@ -580,11 +687,15 @@ public class UpdateController {
 
     private void greetingMessage(Update update){
         var sendMessage = messageUtils.generateSendMessageWithText(update, "Ви однозначно унікальна людина!\n" +
-                "І зараз я хочу підтвердити свої слова і розповісти про вашу унікальність!\n" +
-                "Але для початку давайте вияснимо важливу річ.\n" +
-                "Чи знаєте ви свій тип та профіль?");
+                "І зараз я хочу підтвердити свої слова і розповісти про вашу унікальність!");
         var keyboardMarkup = messageUtils.yesNoKeyboard(update);
         sendMessage.setReplyMarkup(keyboardMarkup);
+        setView(sendMessage);
+        sendMessage = messageUtils.generateSendMessageWithText(update, "✅ Для того, щоб отримати інформацію про свою природу, потрібно знати свій тип та профіль по Дизайну Людини. \n" +
+                "\n" +
+                "Наприклад, Генератор 3/5, де Генератор - це тип, а 3/5 - це профіль. \n" +
+                "\n" +
+                "Чи знаєте ви свій тип та профіль?");
         setView(sendMessage);
 
     }

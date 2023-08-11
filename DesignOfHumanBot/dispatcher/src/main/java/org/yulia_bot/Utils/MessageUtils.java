@@ -83,15 +83,41 @@ public class MessageUtils {
         List<KeyboardRow> keyboardRows = new ArrayList<>();
         KeyboardRow row = new KeyboardRow();
 
-        row.add("Так знаю!");
-        row.add("А що це?");
+        row.add("\uD83D\uDE0EТак, знаю");
+        row.add("\uD83D\uDE33Ні, не знаю");
 
         keyboardRows.add(row);
         keyboardMarkup.setKeyboard(keyboardRows);
         keyboardMarkup.setResizeKeyboard(true);
         return keyboardMarkup;
     }
+    public ReplyKeyboardMarkup knowMore(Update update){
+        ReplyKeyboardMarkup keyboardMarkup = new ReplyKeyboardMarkup();
 
+        List<KeyboardRow> keyboardRows = new ArrayList<>();
+        KeyboardRow row = new KeyboardRow();
+
+        row.add("Дізнатись більше");
+        row.add("Подивитись інші послуги");
+
+        keyboardRows.add(row);
+        keyboardMarkup.setKeyboard(keyboardRows);
+        keyboardMarkup.setResizeKeyboard(true);
+        return keyboardMarkup;
+    }
+    public ReplyKeyboardMarkup other(Update update){
+        ReplyKeyboardMarkup keyboardMarkup = new ReplyKeyboardMarkup();
+
+        List<KeyboardRow> keyboardRows = new ArrayList<>();
+        KeyboardRow row = new KeyboardRow();
+
+        row.add("Подивитись інші послуги");
+
+        keyboardRows.add(row);
+        keyboardMarkup.setKeyboard(keyboardRows);
+        keyboardMarkup.setResizeKeyboard(true);
+        return keyboardMarkup;
+    }
     public ReplyKeyboardMarkup typeKeyboard(Update update) {
         ReplyKeyboardMarkup keyboardMarkup = new ReplyKeyboardMarkup();
 
@@ -283,6 +309,19 @@ public class MessageUtils {
         rowsInline.add(rowInline);
         inlineKeyboardMarkup.setKeyboard(rowsInline);
         return inlineKeyboardMarkup;
+    }
+
+    public ReplyKeyboardMarkup knowPrice(Update update) {
+        ReplyKeyboardMarkup keyboardMarkup = new ReplyKeyboardMarkup();
+
+        List<KeyboardRow> keyboardRows = new ArrayList<>();
+        KeyboardRow row = new KeyboardRow();
+
+        row.add("Дізнатись вартість");
+        keyboardRows.add(row);
+        keyboardMarkup.setKeyboard(keyboardRows);
+        keyboardMarkup.setResizeKeyboard(true);
+        return keyboardMarkup;
     }
 }
 
